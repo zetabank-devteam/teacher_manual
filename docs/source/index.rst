@@ -11,6 +11,5 @@ Contents
 
 .. toctree::
   
-  Zetabot User Manual <self>
-  Hardware <hardware>
-  Software <software>
+  hardware
+  software
