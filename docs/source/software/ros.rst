@@ -1,7 +1,7 @@
 ROS
 ===
 
-.. image:: images/ros.png
+.. image:: ../images/ros.png
 
 * ROS Features
 
