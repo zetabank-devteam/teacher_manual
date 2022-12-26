@@ -4,6 +4,7 @@
 
 This are pictures taken during the assembly process of the Zetabot.
 
+============================
 Jetson Nano & lidar assembly
 ============================
 
@@ -25,3 +26,28 @@ Jetson Nano & lidar assembly
 .. |part_2| image:: images/hetson_lidar__2.jpg
 .. |part_3| image:: images/hetson_lidar_3.jpg
 .. |part_4| image:: images/hetson_lidar_4.jpg
+
+
+
+===========================================
+Camera, Ultrasonic Sensor, Battery Assembly
+===========================================
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Picture
+     - Description
+   * - |part_21|
+     - 1. This is the ultrasonic sensor. Four are attached around the Zetabot.
+   * - |part_22|
+     - 2. This is the camera sensor. It will be attached to the front of the Zetabot.
+   * - |part_23|
+     - 3. Combination of all the modules described so far.
+   * - |part_24|
+     - 4. If you combine the side plate here, the Zetabot is completed.
+ 
+.. |part_21| image:: images/hetson_lidar_1.jpg
+.. |part_22| image:: images/hetson_lidar__2.jpg
+.. |part_23| image:: images/hetson_lidar_3.jpg
+.. |part_24| image:: images/hetson_lidar_4.jpg
