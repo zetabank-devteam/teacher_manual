@@ -40,4 +40,4 @@ These are the main parts of Zetabot.
 .. |part_2| image:: images/parts_2.webp 
 .. |part_3| image:: images/parts_3.webp 
 .. |part_4| image:: images/parts_4.webp 
-.. |part_5| image:: images/parts_5.webp 
+.. |part_5| image:: images/parts_5.jpg
