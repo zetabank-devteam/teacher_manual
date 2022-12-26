@@ -10,6 +10,7 @@ Contents
 --------
 
 .. toctree::
-  
+   :hidden:
+   
   hardware/index
   software/index
