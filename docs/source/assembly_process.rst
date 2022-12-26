@@ -28,7 +28,8 @@ Jetson Nano & lidar assembly
 .. |part_4| image:: images/hetson_lidar_4.jpg
 
 
-
+|
+|
 ===========================================
 Camera, Ultrasonic Sensor, Battery Assembly
 ===========================================
