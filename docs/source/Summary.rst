@@ -15,4 +15,9 @@ Transformation robot to respond to various businesses
 -----------------------------------------------------
 
 - Try practical IT education through Zetabot!
-
+.. image:: images/summary_1.webp
+.. image:: images/summary_2.webp
+Components of Zetabot
+---------------------
+.. image:: images/summary_3.webp
+① Antenna ② Battery indicator ③ Charging port ④ Power button ⑤ Ultrasonic sensor ⑥ RP LIDAR ⑦ Bumper
