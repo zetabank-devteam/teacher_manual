@@ -1,7 +1,7 @@
 JupyterLab
 ==========
 
-.. image:: images/jupyter.png
+.. image:: ../images/jupyter.png
 
 * JupyterLab Features
 
