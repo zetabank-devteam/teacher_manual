@@ -4,9 +4,8 @@
 
 This are pictures taken during the assembly process of the Zetabot.
 
-============================
 Jetson Nano & lidar assembly
-============================
+----------------------------
 
 .. list-table:: 
    :header-rows: 1
@@ -30,9 +29,8 @@ Jetson Nano & lidar assembly
 
 |
 |
-===========================================
 Camera, Ultrasonic Sensor, Battery Assembly
-===========================================
+-------------------------------------------
 
 .. list-table:: 
    :header-rows: 1
