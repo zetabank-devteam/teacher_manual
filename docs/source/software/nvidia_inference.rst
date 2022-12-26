@@ -1,7 +1,8 @@
+================
 NVIDIA Inference
 ================
 
-.. image:: images/nvidia_interface.png
+.. image:: ../images/nvidia_interface.png
 
 - NVIDIA Inference Features
 
