@@ -14,16 +14,5 @@ Contents
 .. toctree::
   
   Zetabot User Manual <self>
-  Hardware
-    Summary
-    Critical Parts
-    SBC (single Board Computer)
-    Block Diagram
-    Option: 6-axis robot arm
-    ※ Assembly Process
-  Software 
-    ROS
-    NVIDIA Inference
-    JupyterLab
-    JupyterLab connection & run examples
-    
+  Hardware <hardware>
+  Software <software>
