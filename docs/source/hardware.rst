@@ -4,12 +4,11 @@ Hardware
 
 Here are the articles in this section:
 
-.. autosummary::
-  :toctree: generated
+.. toctree::
   
   Summary <summary>
-  Critical Parts 
-  SBC (single Board Computer)
-  Block Diagram
+  Critical Parts <critical_parts> 
+  SBC (single Board Computer) <sbc>
+  Block Diagram <block>
   Option: 6-axis robot arm
   ※ Assembly Process
