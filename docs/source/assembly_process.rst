@@ -47,7 +47,7 @@ Camera, Ultrasonic Sensor, Battery Assembly
    * - |part_24|
      - 4. If you combine the side plate here, the Zetabot is completed.
  
-.. |part_21| image:: images/hetson_lidar_1.jpg
-.. |part_22| image:: images/hetson_lidar__2.jpg
-.. |part_23| image:: images/hetson_lidar_3.jpg
-.. |part_24| image:: images/hetson_lidar_4.jpg
+.. |part_21| image:: images/modules_1.jpg
+.. |part_22| image:: images/modules_2.jpg
+.. |part_23| image:: images/modules_3.jpg
+.. |part_24| image:: images/modules_4.jpg
