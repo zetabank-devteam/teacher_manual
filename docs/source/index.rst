@@ -11,5 +11,5 @@ Contents
 
 .. toctree::
   
-  hardware
-  software
+  hardware/index
+  software/index
