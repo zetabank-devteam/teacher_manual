@@ -4,7 +4,7 @@ Critical Parts
 
 These are the main parts of Zetabot.
 
-.. list-table:: Critical Parts
+.. list-table:: 
    :header-rows: 1
 
    * - Product Picture
