@@ -1,3 +1,4 @@
+===================================
 JupterLab Access & Run examples
 ===================================
 
@@ -8,7 +9,7 @@ JupterLab Access & Run examples
     .. code:: 
       
       http://10.42.0.1:8000
-    .. image:: images/jup1.png
+    .. image:: ../images/jup1.png
     
   * Input Username / Password 
     
@@ -16,30 +17,30 @@ JupterLab Access & Run examples
      
      username: zeta
      password: 1
-    .. image:: images/jup2.png
+    .. image:: ../images/jup2.png
     
   * JupyterLab Main Page
     
-    .. image:: images/jup3.png
+    .. image:: ../images/jup3.png
   
   * Moving to lecture folder
   
-    .. image:: images/jup4.png
+    .. image:: ../images/jup4.png
     
   * Moving to Communications folder
   
-    .. image:: images/jup5.png
+    .. image:: ../images/jup5.png
   
   * Opening 01_01_ros_topic_publisher.ipynb file
   
-    .. image:: images/jup6.png
+    .. image:: ../images/jup6.png
     
   * Run the cells
   
     .. code:: 
     
       Ctrl + Enter
-    .. image:: images/jup7.png
-    .. image:: images/jup8.png
-    .. image:: images/jup9.png
+    .. image:: ../images/jup7.png
+    .. image:: ../images/jup8.png
+    .. image:: ../images/jup9.png
   
