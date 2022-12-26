@@ -4,6 +4,7 @@ ROS
 .. image:: images/ros.png
 
 * ROS Features
+
   1. Robot Operation System
   2. Middleware that mediates the operating system and robot hardware
   3. It is easy to reuse programs by exchanging messages between nodes
