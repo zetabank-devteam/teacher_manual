@@ -21,7 +21,7 @@ Jetson Nano & lidar assembly
    * - |part_4|
      - 4. This is the lidar sensor on the top of the Zetabot.
  
-.. |part_1| image:: images/hetson_lidat_1.jpg
-.. |part_2| image:: images/hetson_lidat__2.jpg
-.. |part_3| image:: images/hetson_lidat_3.jpg
-.. |part_4| image:: images/hetson_lidat_4.jpg
+.. |part_1| image:: images/hetson_lidar_1.jpg
+.. |part_2| image:: images/hetson_lidar__2.jpg
+.. |part_3| image:: images/hetson_lidar_3.jpg
+.. |part_4| image:: images/hetson_lidar_4.jpg
