@@ -109,14 +109,23 @@ Mini Autonomous Robot
    ai_content/content_control/convergence/index
 
 
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :hidden:
+   :caption: AI training content
+
+   ai_content/ai_training/robot_ai/index
+   ai_content/ai_training/ai_training_ex/index
 
 
-..   .. toctree::
-      :titlesonly:
-      :maxdepth: 1
-      :hidden:
-      :caption: AI Contents
-      
-      autonomous_driving/basic_concept/index
-      autonomous_driving/navigation/index
-      autonomous_driving/control_parameter/index
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :hidden:
+   :caption: AI Contents
+   
+   autonomous_driving/basic_concept/index
+   autonomous_driving/navigation/index
+   autonomous_driving/control_parameter/index
