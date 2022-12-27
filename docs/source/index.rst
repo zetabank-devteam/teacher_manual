@@ -11,7 +11,7 @@ Contents
 
 .. toctree::
    :hidden:
-  
-  index
-  hardware/index
-  software/index
+   
+   index
+   hardware/index
+   software/index
