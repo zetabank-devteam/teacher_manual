@@ -17,6 +17,6 @@ What is Localization?
 |
 | Ex)
 |
-.. image:: localization_ex.png
+.. image:: ../images/localization_ex.png
 
 When the Rviz of the Zeta bot is launched, press 2D Pose Estimate and adjust the direction, the laser value of the robot and the space of the map match will be shown to some extent.

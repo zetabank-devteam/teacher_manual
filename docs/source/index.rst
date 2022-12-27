@@ -14,7 +14,7 @@ AI Autonomous Robot
 
 .. image:: images/공룡버전_0526.png
    :width: 50 %
-.. image:: images/로봇팔_기본형_이미지_01.817.jpg
+.. image:: images/로봇팔_기본형_이미지_01.jpg
    :width: 50 %
 
 
@@ -22,12 +22,12 @@ Mini Autonomous Robot
 ---------------------
 .. image:: images/미니교육용구동부_W.11.png
    :width: 50 %
-.. image:: images/미니교육용구동부_W.24.817.png
+.. image:: images/미니교육용구동부_W.24.png
    :width: 50 %
 
-.. image:: images/노란색 미니 교육용 로봇.jpg
+.. image:: images/노란색 미니 교육용 로봇.JPG
    :width: 50 %
-.. image:: images/빨강색 미니 교육용 로봇.jpg
+.. image:: images/빨강색 미니 교육용 로봇.JPG
    :width: 50 %
 
 

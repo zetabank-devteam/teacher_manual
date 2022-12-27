@@ -8,7 +8,7 @@ What is mapping?
 
 .. image:: ../images/mapping_slam.webp
 
-| When we travel, we use maps to guide us to our destination
+| When we travel, we use maps to guide us to our destination.
 | As such, in order to perform autonomous driving, information mapping of the terrain is required.
 | The task of making these features in advance is called **Mapping**.
 
