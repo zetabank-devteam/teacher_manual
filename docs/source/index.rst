@@ -36,14 +36,18 @@ Mini Autonomous Robot
 
 
 .. toctree::
+   :titlesonly:
+   :maxdepth: 1
    :hidden:
    :caption: AI Autonomous Driving
 
    ai_autonomous_robot/installation/index
-   ai_autonomous_robot/hardware/index
+   hardware
    ai_autonomous_robot/software/index
 
 .. toctree::
+   :titlesonly:
+   :maxdepth: 1
    :hidden:
    :caption: Mini Autonomous Driving
 
@@ -52,6 +56,8 @@ Mini Autonomous Robot
    mini_autonomous_robot/software/index
 
 .. toctree::
+   :titlesonly:
+   :maxdepth: 1
    :hidden:
    :caption: Autonomous Driving Contents
    
