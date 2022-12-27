@@ -3,6 +3,7 @@ Path Planning
 =============
 
 .. toctree::
+    :titlesonly:
     :hidden:
 
     path_planning/global_cost
@@ -20,6 +21,6 @@ Move_base
 |
 | Essentially, Move_base is an action type where it receives a topic, performs an action suitable for that topic, and sends the topic again.
 
-.. image:: images/path_planning.svg
+.. image:: ../images/path_planning.svg
 
 
