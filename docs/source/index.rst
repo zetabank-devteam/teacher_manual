@@ -12,4 +12,6 @@ This is a manual for ROS-based educational AI autonomous robot Zetabot.
    
    :caption: Autonomous Driving
    
-   autonomous_driving/index
+   autonomous_driving/basic_concept
+   autonomous_driving/navigation
+   autonomous_driving/control_parameter
