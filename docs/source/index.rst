@@ -9,7 +9,9 @@ This is a manual for ROS-based educational AI autonomous robot Zetabot.
    :hidden:
    
    ai_autonomous_robot/index
-   
+
+.. toctree::
+   :hidden:
    :caption: Autonomous Driving
    
    autonomous_driving/basic_concept/index
