@@ -51,10 +51,10 @@ Mini Autonomous Robot
    mini_autonomous_robot/hardware/index
    mini_autonomous_robot/software/index
 
-.. .. toctree::
-      :hidden:
-      :caption: Autonomous Driving
-      
-      autonomous_driving/basic_concept/index
-      autonomous_driving/navigation/index
-      autonomous_driving/control_parameter/index
+.. toctree::
+   :hidden:
+   :caption: Autonomous Driving
+   
+   autonomous_driving/basic_concept/index
+   autonomous_driving/navigation/index
+   autonomous_driving/control_parameter/index
