@@ -83,9 +83,9 @@ Mini Autonomous Robot
    :maxdepth: 1
    :caption: AI Autonomous Driving
 
-   ai_autonomous_robot/hardware/installation
+   ai_autonomous_robot/installation/installation
    ai_autonomous_robot/hardware/hardware
-   ai_autonomous_robot/hardware/software
+   ai_autonomous_robot/software/software
 
 .. toctree::
    :titlesonly:
@@ -103,7 +103,10 @@ Mini Autonomous Robot
    :hidden:
    :caption: Contents for Controls
 
-   ai_content/content_control/communication
+   ai_content/content_control/communication/index
+   ai_content/content_control/robot_sensor/index
+   ai_content/content_control/multi_media/index
+   ai_content/content_control/convergence/index
 
 
 
