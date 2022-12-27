@@ -9,4 +9,4 @@ Here are the articles in this section:
   ros
   nvidia_inference
   jupyterlab
-  JupyterLab_app
+  jupyterlab_run
