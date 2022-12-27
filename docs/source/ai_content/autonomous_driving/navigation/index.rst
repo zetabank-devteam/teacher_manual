@@ -53,3 +53,8 @@ Navigation In-Action
 3.  If you click 2D Nav Goal to set the target, the settings for autonomous driving is set.
 
     .. image:: ../images/nav_4.jpg
+
+.. toctree:: 
+    :hidden:
+
+    self
