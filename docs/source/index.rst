@@ -42,19 +42,21 @@ AI Autonomous Robot
 Mini Autonomous Robot
 ---------------------
 
-.. figure:: images/미니교육용구동부_W.11.png
-   :figwidth: 45 %
-   :align: center
+.. list-table::
 
-   White Mini-Zetabot
-   (Mini Autonomous Robot )
+   *  -  .. figure:: images/미니교육용구동부_W.11.png
+            :figwidth: 45 %
+            :align: center
 
-.. figure:: images/미니교육용구동부_W.24.png
-   :figwidth: 45 %
-   :align: center
+            White Mini-Zetabot
+            (Mini Autonomous Robot )
 
-   Black Mini-Zetabot
-   (Mini Autonomous Robot )
+      -  .. figure:: images/미니교육용구동부_W.24.png
+            :figwidth: 45 %
+            :align: center
+
+            Black Mini-Zetabot
+            (Mini Autonomous Robot )
 
 .. figure:: images/mini_yellow.JPG
    :figwidth: 45 %
