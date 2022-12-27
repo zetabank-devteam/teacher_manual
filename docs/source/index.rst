@@ -9,5 +9,3 @@ This is a manual for ROS-based educational AI autonomous robot Zetabot.
    :hidden:
    
    ai_autonomous_robot/index
-   hardware/index
-   software/index
