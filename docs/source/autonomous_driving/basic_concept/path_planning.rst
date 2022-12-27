@@ -2,11 +2,7 @@
 Path Planning
 =============
 
-.. toctree::
-    :titlesonly:
-    :hidden:
 
-    path_planning/global_cost
 
 What is Path Planning? 
 ----------------------
@@ -23,4 +19,15 @@ Move_base
 
 .. image:: ../images/path_planning.svg
 
+.. toctree::
+    :titlesonly:
+    :hidden:
 
+    self
+
+.. toctree::
+    :titlesonly:
+    :hidden:
+    :caption: Path Planning
+
+    path_planning/global_cost
