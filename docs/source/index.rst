@@ -81,17 +81,18 @@ Mini Autonomous Robot
 .. toctree::
    :titlesonly:
    :maxdepth: 1
-   :caption: AI Autonomous Driving
+   :hidden:
+   :caption: AI Autonomous Robot
 
-   ai_autonomous_robot/installation/installation
-   ai_autonomous_robot/hardware/hardware
-   ai_autonomous_robot/software/software
+   ai_autonomous_robot/installation/index
+   ai_autonomous_robot/hardware/index
+   ai_autonomous_robot/software/index
 
 .. toctree::
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption: Mini Autonomous Driving
+   :caption: Mini Autonomous Robot
 
    mini_autonomous_robot/installation/index
    mini_autonomous_robot/hardware/index
