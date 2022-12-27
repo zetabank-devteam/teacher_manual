@@ -41,26 +41,26 @@ Mini Autonomous Robot
    :hidden:
    :caption: AI Autonomous Driving
 
-   ai_autonomous_robot/installation/index
+   installation
    hardware
-   ai_autonomous_robot/software/index
+   software
 
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :hidden:
-   :caption: Mini Autonomous Driving
+..   .. toctree::
+      :titlesonly:
+      :maxdepth: 1
+      :hidden:
+      :caption: Mini Autonomous Driving
 
-   mini_autonomous_robot/installation/index
-   mini_autonomous_robot/hardware/index
-   mini_autonomous_robot/software/index
+      mini_autonomous_robot/installation/index
+      mini_autonomous_robot/hardware/index
+      mini_autonomous_robot/software/index
 
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :hidden:
-   :caption: Autonomous Driving Contents
-   
-   autonomous_driving/basic_concept/index
-   autonomous_driving/navigation/index
-   autonomous_driving/control_parameter/index
+   .. toctree::
+      :titlesonly:
+      :maxdepth: 1
+      :hidden:
+      :caption: Autonomous Driving Contents
+      
+      autonomous_driving/basic_concept/index
+      autonomous_driving/navigation/index
+      autonomous_driving/control_parameter/index
