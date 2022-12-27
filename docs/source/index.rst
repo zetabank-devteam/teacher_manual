@@ -30,10 +30,10 @@ Mini Autonomous Robot
 .. image:: images/미니교육용구동부_W.24.png
    :width: 45 %
 
-.. image:: images/노란색 미니 교육용 로봇.JPG
+.. image:: images/mini_yellow.JPG
    :width: 45 %
 
-.. image:: images/빨강색 미니 교육용 로봇.JPG
+.. image:: images/mini_red.JPG
    :width: 45 %
 
 
