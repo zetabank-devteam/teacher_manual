@@ -25,3 +25,5 @@ Path Planning
     :hidden:
 
     path_planning/global_cost
+    path_planning/local_cost
+    path_planning/local_planner
