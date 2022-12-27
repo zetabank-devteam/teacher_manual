@@ -65,8 +65,8 @@ Mini Autonomous Robot
    :maxdepth: 1
    :hidden:
    :caption: Contents for Controls
-   
 
+   ai_content/content_control/communication
 
 
 
