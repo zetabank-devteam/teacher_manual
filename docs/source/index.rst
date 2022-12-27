@@ -9,28 +9,28 @@ AI Autonomous Robot
 -------------------
 
 .. figure:: images/교육용구동부이미지_400.png
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    Black Zetabot
    (AI Autonomous Robot )
 
 .. figure:: images/교육용구동부_7인치모델_White_0712.817.png
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    White Zetabot
    (AI Autonomous Robot )
 
 .. figure:: images/공룡버전_0526.png
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    White Zetabot with Dragon Attachment
    (AI Autonomous Robot )
 
 .. figure:: images/로봇팔_기본형_이미지_01.jpg
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    Black Zetabot with Arm Attachemnt
@@ -43,28 +43,28 @@ Mini Autonomous Robot
 ---------------------
 
 .. figure:: images/미니교육용구동부_W.11.png
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    White Mini-Zetabot
    (Mini Autonomous Robot )
 
 .. figure:: images/미니교육용구동부_W.24.png
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    Black Mini-Zetabot
    (Mini Autonomous Robot )
 
 .. figure:: images/mini_yellow.JPG
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    Yellow Mini-Zetabot
    (Mini Autonomous Robot )
 
 .. figure:: images/mini_red.JPG
-   :width: 45 %
+   :figwidth: 45 %
    :align: center
 
    Red Mini-Zetabot
