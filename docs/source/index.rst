@@ -2,7 +2,7 @@
 AI Autonomous Robot
 ===================
 
-This is a manual for ROS-based educational self-driving AI robot Zetabot.
+This is a manual for ROS-based educational AI autonomous robot Zetabot.
 
 
 .. toctree::
