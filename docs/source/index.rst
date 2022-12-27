@@ -53,7 +53,7 @@ Mini Autonomous Robot
 
 .. toctree::
    :hidden:
-   :caption: Autonomous Driving
+   :caption: Autonomous Driving Contents
    
    autonomous_driving/basic_concept/index
    autonomous_driving/navigation/index
