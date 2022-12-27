@@ -31,3 +31,10 @@ First, run the navigation, then run a new terminal and enter the command below.
 When the corresponding screen is executed, judge the performance of the navigation in real time by adjusting the values suitable for each parameter.
 
 **Precautions) If you adjust many parameter values at once, navigation may stop. Therefore, change the value little by little, paying attention to the phenomena appearing on RVIZ.**
+
+.. toctree::
+    :hidden:
+
+    self
+    inflation_layer
+    cost_scaling

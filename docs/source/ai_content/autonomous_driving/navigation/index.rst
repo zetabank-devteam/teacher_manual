@@ -30,3 +30,26 @@ A description of the mapping.
     2. When the joystick vibrates, it is a signal that the ZetaBot and the joystick are connected.
     3. Press the LB button and use the left joystick to handle and accelerate.
     4. Press the LT button and use the right joystick to rotate the Zetabot.
+
+|
+|
+|
+
+Navigation In-Action
+--------------------
+
+1.  When mapping is finished, click the Navigation button.
+
+    .. image:: ../images/nav_1.jpg
+
+2.  Run localization with 2D Pose Estimate.
+
+    During this stage, it is recommended for LIDAR to have measured the obstacles in green and map them to some extent.
+
+    .. image:: ../images/nav_2.jpg
+
+    .. image:: ../images/nav_3.jpg
+
+3.  If you click 2D Nav Goal to set the target, the settings for autonomous driving is set.
+
+    .. image:: ../images/nav_4.jpg
