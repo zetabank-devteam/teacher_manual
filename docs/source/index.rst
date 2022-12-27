@@ -8,6 +8,6 @@ This is a manual for ROS-based educational AI autonomous robot Zetabot.
 .. toctree::
    :hidden:
    
-   ai_autonomout_robot/index
+   ai_autonomous_robot/index
    hardware/index
    software/index
