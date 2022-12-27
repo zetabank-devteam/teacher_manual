@@ -47,6 +47,9 @@ Mini Autonomous Robot
    :hidden:
    :caption: Mini Autonomous Driving
 
+   mini_autonomous_robot/installation/index
+   mini_autonomous_robot/hardware/index
+   mini_autonomous_robot/software/index
 
 .. .. toctree::
       :hidden:
