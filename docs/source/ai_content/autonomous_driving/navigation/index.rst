@@ -57,4 +57,5 @@ Navigation In-Action
 .. toctree:: 
     :hidden:
 
-    self
+    AI Autonomous Robot 
+    Navigation In-Action
