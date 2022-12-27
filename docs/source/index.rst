@@ -38,7 +38,6 @@ Mini Autonomous Robot
 .. toctree::
    :titlesonly:
    :maxdepth: 1
-   :hidden:
    :caption: AI Autonomous Driving
 
    installation
