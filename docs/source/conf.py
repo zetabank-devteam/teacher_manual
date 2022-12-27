@@ -30,11 +30,13 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_sidebars = {
-    '**': [
-        'globaltoc.html',
-    ]
+html_theme_options = {
+    'analytics_id': 'UA-17821189-2',
+    'collapse_navigation': False,
+    'sticky_navigation': True,
+    'navigation_depth': -1,
 }
+
 
 
 # -- Options for EPUB output
