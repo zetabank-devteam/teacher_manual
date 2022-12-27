@@ -19,15 +19,9 @@ Path Planning
 
 .. image:: ../images/path_planning.svg
 
-.. toctree::
-    :titlesonly:
-    :hidden:
-
-    self
 
 .. toctree::
     :titlesonly:
     :hidden:
-    :caption: Path Planning
 
     path_planning/global_cost
