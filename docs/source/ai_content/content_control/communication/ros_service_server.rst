@@ -1,58 +1,50 @@
 ==================
-ROS Service Client
+ROS Service Server
 ==================
 
 
--   02_02_ros_service_client.ipynb
+-   02_01_ros_service_server.ipynb
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm12.png
+.. image:: ../images/comm10.webp
 
-.. image:: ../images/comm13.png
+.. image:: ../images/comm11.webp
 
 .. code-block:: python
 
     from __future__ import print_function
-    import sys
+    from rospy_tutorials.srv import AddTwoInts,AddTwoIntsResponse
     import rospy
-    from rospy_tutorials.srv import *
     
--   Import print_function from __future__ module for Python3 compatibility
--   Import sys module
--   Import rospy_tutorials.srv module
+-   Import print_function from `__future__` module for Python3 compatibility
+-   Import AddTwoInts, AddTwoIntsResponse from rospy_tutorials.srv module
 -   Import rospy modules
 
+.. code-block:: python
 
+    def handle_add_two_ints(req):
+        print("Returning [%s + %s = %s]"%(req.a, req.b, (req.a + req.b)))
+        return AddTwoIntsResponse(req.a + req.b)
+
+-   Create handle_add_two_ints() function
+-   Output req.a, req.b, req.a + req.b
+-   Return instances of req.a + req.b in AddTwoIntsResponse
 
 .. code-block:: python
 
-    def add_two_ints_client(x, y):
-        rospy.wait_for_service('add_two_ints')
-        try:
-            add_two_ints = rospy.ServiceProxy('add_two_ints', AddTwoInts)
-            resp1 = add_two_ints(x, y)
-            return resp1.sum
-        except rospy.ServiceException as e:
-            print("Service call failed: %s"%e)
+    def add_two_ints_server():
+        rospy.init_node('add_two_ints_server')
+        s = rospy.Service('add_two_ints', AddTwoInts, handle_add_two_ints)
+        print("Ready to add two ints.")
+        rospy.spin()
 
--   Create add_two_ints_client()  function
--   Create add_two_ints_client() 
--   Get add_two_ints Service result
--   exception handling
+-   Create `add_two_ints_server()` function
+-   Create add_two_ints_server Node
+-   Create add_two_ints Service
 
 .. code-block:: python
 
-    def usage():
-        return "%s [x y]"%sys.argv[0]
+    add_two_ints_server()
 
-.. code-block:: python
-
-    input_num = input("숫자 두 개를 입력하세요(ex: a,b) : ")
-    x = int(input_num[0])
-    y = int(input_num[1])
-    print("Requesting %s+%s"%(x, y))
-    print("%s + %s = %s"%(x, y, add_two_ints_client(x, y)))
-
--   Get user input x, y
--   Service result output
+-   Create add_two_ints_server() function
