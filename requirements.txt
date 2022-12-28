@@ -8,4 +8,4 @@ sphinx-copybutton
 sphinx-multiversion
 sphinx-rtd-theme
 sphinx-tabs
-cloud_spthemenm
+cloud_sptheme
