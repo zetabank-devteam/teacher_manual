@@ -112,7 +112,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 2
    :hidden:
-   :caption: AI training content
+   :caption: AI Training Content
 
    ai_content/ai_training/robot_ai/index
    ai_content/ai_training/ai_training_ex/index
@@ -123,7 +123,18 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 2
    :hidden:
-   :caption: AI Contents
+   :caption: Contents for Experience
+   
+   experience_content/robot_arm/index
+   experience_content/entertainment/index
+
+
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 2
+   :hidden:
+   :caption: Autonomous Robot Content
    
    ai_content/autonomous_driving/basic_concept/index
    ai_content/autonomous_driving/navigation/index
