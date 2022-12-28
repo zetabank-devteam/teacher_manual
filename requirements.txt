@@ -1,0 +1,11 @@
+
+
+doc8
+docutils==0.16
+pip
+sphinx
+sphinx-copybutton
+sphinx-multiversion
+sphinx-rtd-theme
+sphinx-tabs
+cloud_spthemenm
