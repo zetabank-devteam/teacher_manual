@@ -44,21 +44,21 @@ Mini Autonomous Robot
 
 .. list-table::
 
-   *  -  .. figure:: images/미니교육용구동부_W.11.png
-            :figwidth: 45 %
-            :align: center
+   * - |white_min|
+     - |black_min|
+   * - White Mini Zetabot
+     - Black Mini Zetabot
 
-            White Mini-Zetabot
-            (Mini Autonomous Robot )
+.. |white_min| image:: images/미니교육용구동부_W.11.png
+   :width: 45%
 
-      -  .. figure:: images/미니교육용구동부_W.24.png
-            :figwidth: 45 %
-            :align: center
+.. |balck_min| image:: images/미니교육용구동부_W.24.png
+   :width: 45%
 
-            Black Mini-Zetabot
-            (Mini Autonomous Robot )
+|test| , |test2|
 
-.. figure:: images/mini_yellow.JPG
+
+.. |test| figure:: images/mini_yellow.JPG
    :figwidth: 45 %
    :width: 70 %
    :align: center
@@ -66,7 +66,7 @@ Mini Autonomous Robot
    Yellow Mini-Zetabot
    (Mini Autonomous Robot )
 
-.. figure:: images/mini_red.JPG
+.. |test2| figure:: images/mini_red.JPG
    :figwidth: 45 %
    :width: 70 %
    :align: center
