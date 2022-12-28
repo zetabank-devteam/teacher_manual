@@ -1,5 +1,5 @@
 ==================================
-Detecting Objects through a Camera
+Detecting Objects with Camera
 ==================================
 
 Here are the articles in this section:

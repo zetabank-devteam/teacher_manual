@@ -34,7 +34,7 @@ Detecting Dogs
 
     # terminating the process
     kill_command_face = 'bash ~/ai_example/kill.sh camera'
-    subprocess.call((kill_command_face.split('\n')), shell=True)
+    subprocess.call((kill_command_dog.split('\n')), shell=True)
 
 
 -   Terminating the process
