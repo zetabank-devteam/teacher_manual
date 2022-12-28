@@ -8,9 +8,9 @@ Here are the articles in this section:
 .. toctree::
     :caption: Detecting Objects within an Image
 
-    googlenet
-    alexnet
-    network
+    image_det/googlenet
+    image_det/alexnet
+    image_det/network
 
 .. toctree::
     :caption: Detecting Objects within a Video
