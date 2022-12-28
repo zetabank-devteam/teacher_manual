@@ -1,11 +1,10 @@
-=================================
-Detecting Objects within an Image
-=================================
+===============================
+Object Segmentation with Camera
+===============================
 
 Here are the articles in this section:
 
 .. toctree::
     
-    googlenet
-    alexnet
+    object_seg
     network

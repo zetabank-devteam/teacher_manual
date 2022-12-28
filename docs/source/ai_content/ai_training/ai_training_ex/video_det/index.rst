@@ -1,6 +1,6 @@
-=================================
-Detecting Objects within an Image
-=================================
+================================
+Detecting Objects within a Video
+================================
 
 Here are the articles in this section:
 

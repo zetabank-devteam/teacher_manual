@@ -1,11 +1,12 @@
-=================================
-Detecting Objects within an Image
-=================================
+==================================
+Detecting Objects through a Camera
+==================================
 
 Here are the articles in this section:
 
 .. toctree::
     
-    googlenet
-    alexnet
+    obj_det
+    face_det
+    dog_det
     network

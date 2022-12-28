@@ -1,11 +1,10 @@
-=================================
-Detecting Objects within an Image
-=================================
+=============================
+Pose Recogntition with Camera
+=============================
 
 Here are the articles in this section:
 
 .. toctree::
     
-    googlenet
-    alexnet
+    handges
     network

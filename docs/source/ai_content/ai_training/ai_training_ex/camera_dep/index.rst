@@ -1,11 +1,10 @@
-=================================
-Detecting Objects within an Image
-=================================
+============================
+Depth Estimation with Camera
+============================
 
 Here are the articles in this section:
 
 .. toctree::
     
-    googlenet
-    alexnet
+    dept_est
     network
