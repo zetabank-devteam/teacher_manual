@@ -55,7 +55,7 @@ Mini Autonomous Robot
 
 .. figure:: images/mini_yellow.JPG
    :figwidth: 45 %
-   :width: 65 %
+   :width: 60 %
    :align: center
 
    Yellow Mini-Zetabot
@@ -63,7 +63,7 @@ Mini Autonomous Robot
 
 .. figure:: images/mini_red.JPG
    :figwidth: 45 %
-   :width: 65 %
+   :width: 60 %
    :align: center
 
    Red Mini-Zetabot

@@ -3,8 +3,8 @@ ROS Command Example
 ===================
 
 -   01_ros.ipynbipynb
--   Running the cell code
-    `Ctrl + Enter`
+-   | Running the cell code
+    | `Ctrl + Enter`
 
 .. image:: ../images/comm3.png
 

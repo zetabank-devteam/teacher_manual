@@ -3,8 +3,8 @@ ROS Topic Subscriber
 ====================
 
 -   01_02_ros_topic_subscriber.ipynb
--   Running the cell code
-    `Ctrl + Enter`
+-   | Running the cell code
+    | `Ctrl + Enter`
 
 .. image:: ../images/comm2.webp
 

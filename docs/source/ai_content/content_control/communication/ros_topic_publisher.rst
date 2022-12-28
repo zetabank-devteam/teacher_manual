@@ -4,8 +4,8 @@ ROS Topic Publisher
 
 
 -   01_01_ros_topic_publisher.ipynb
--   Running the cell code
-    `Ctrl + Enter`
+-   | Running the cell code
+    | `Ctrl + Enter`
 
 .. image:: ../images/comm1.webp
 
