@@ -50,10 +50,8 @@ Mini Autonomous Robot
      - Black Mini Zetabot
 
 .. |white_min| image:: images/미니교육용구동부_W.11.png
-   :width: 45%
 
-.. |balck_min| image:: images/미니교육용구동부_W.24.png
-   :width: 45%
+.. |black_min| image:: images/미니교육용구동부_W.24.png
 
 |test| , |test2|
 
