@@ -138,7 +138,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 2
    :hidden:
-   :caption: Lets Have a Lot of Fun
+   :caption: Lets Have a Lot of Fun!!!
    
    ai_content/having_fun/robot_arm/index
    ai_content/having_fun/fun_trials/index 
