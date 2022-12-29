@@ -13,7 +13,7 @@ The following are the pictures of the change according to the value of the cost 
 
    cost scaling factor 3
 
-.. figure:: ../images/cost2.webp
+.. figure:: ../images/cost2.png
    :figwidth: 50 %
    :align: center
 
@@ -21,13 +21,13 @@ The following are the pictures of the change according to the value of the cost 
 
 The following are the pictures of the change according to the value of the cost scaling factor of the local costmap.
 
-.. figure:: ../images/cost3.webp
+.. figure:: ../images/cost3.png
    :figwidth: 50 %
    :align: center
 
    cost scaling factor 3
 
-.. figure:: ../images/cost4.webp
+.. figure:: ../images/cost4.png
    :figwidth: 50 %
    :align: center
 
