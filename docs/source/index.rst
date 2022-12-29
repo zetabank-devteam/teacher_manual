@@ -103,7 +103,7 @@ Mini Autonomous Robot
    :caption: Lets Try It Out!!!
 
    ai_content/content_control/communication/index
-   ai_content/content_control/robot_sensor/index
+   ai_content/content_control/robot_sensor/index   
    ai_content/content_control/multi_media/index
    ai_content/content_control/convergence/index
 
@@ -115,7 +115,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption::orange: `testing`
+   :caption: :orange: `testing`\ndsd
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
