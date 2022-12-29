@@ -9,13 +9,13 @@ AI Autonomous Robot
 -------------------
 
 .. figure:: images/교육용구동부_7인치모델_White_0712.817.png
-   :figwidth: 55 %
+   :figwidth: 50 %
    :align: center
 
    White Zetabot
 
 .. figure:: images/교육용구동부이미지_400.png
-   :figwidth: 55 %
+   :figwidth: 50 %
    :align: center
 
    Black Zetabot
@@ -28,7 +28,7 @@ AI Autonomous Robot
    White Zetabot with a Dragon Attachment
 
 .. figure:: images/로봇팔_기본형_이미지_01.jpg
-   :figwidth: 80 %
+   :figwidth: 90 %
    :align: center
 
    Black Zetabot with an Arm Attachemnt
