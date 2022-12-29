@@ -116,7 +116,7 @@ Mini Autonomous Robot
    :maxdepth: 1
    :hidden:
    :caption: :orange: `testing`\ndsd
-
+   :caption: test
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
    ai_content/content_control/multi_media/index
