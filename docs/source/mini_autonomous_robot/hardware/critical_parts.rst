@@ -16,28 +16,23 @@ These are the main parts of Zetabot.
        | Memory : 4GB 64bit LPDDR 25.6GB/s
        | Storage : Micro SD
    * - |part_2| 
-     - | RP LIDAR
-       | 5.5hZ(2000 sample/s)
-       | 6meter measurement
-       | 360 degree scanA1M8
+     - | Raspberry Pi 4B 4GB
+       | GPU : Broadcom BCM2711 SoC
+       | CPU : ARM-A57 1.5Ghz
+       | Memory : 4GB 64bit LPDDR-2400
+       | Storage : Micro-SD
    * - |part_3| 
-     - | Camera Module
-       | Resolution : 8mega pixel
-       | Sensor : Sony IMX 219 PQ CMOS
+     - | OKDO LIDAR HAT
+       | UART interface
+       | 4500points/s sample rate
+       | 12 meter range
    * - |part_4| 
-     - | Close range object detection sensor
-       | ⁠Model : HC-SR04
-       | Power : 5V
-       | Current : 2mA
-       | Ranging Distance : 2cm ~ 450cm
-   * - |part_5| 
      - | Lithium ion battery pack
        | Charge : 16.8V / 3.5A
-       | Output: 14.8V / 9.4Ah (139.12Wh)
+       | Output: 14.6V / 2750mAh
 
 
-.. |part_1| image:: ../images/parts_1.webp 
-.. |part_2| image:: ../images/parts_2.webp 
-.. |part_3| image:: ../images/parts_3.webp 
-.. |part_4| image:: ../images/parts_4.webp 
-.. |part_5| image:: ../images/parts_5.jpg
+.. |part_1| image:: ../images/crit_1.webp 
+.. |part_2| image:: ../images/crit_2.webp 
+.. |part_3| image:: ../images/crit_3.webp 
+.. |part_4| image:: ../images/crit_4.jpg

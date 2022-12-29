@@ -14,7 +14,7 @@ Jetson Nano & lidar assembly
    * - Picture
      - Description
    * - .. image:: ../images/hetson_lidar_1.jpg
-          :scale: 45 %
+          :width: 45 %
      - 1. The process of assembling the base.
    * - |part_2|
      - 2. This is a picture with Jetson Nano inside.
