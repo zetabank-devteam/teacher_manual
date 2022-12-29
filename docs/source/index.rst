@@ -139,3 +139,5 @@ Mini Autonomous Robot
    ai_content/autonomous_driving/basic_concept/index
    ai_content/autonomous_driving/navigation/index
    ai_content/autonomous_driving/control_parameter/index
+   ai_content/autonomous_driving/robot_drive/index
+   ai_content/autonomous_driving/coastmap/index
