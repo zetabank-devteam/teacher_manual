@@ -100,7 +100,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption: Lets Try It Out!
+   :caption: Lets Try It Out!!!
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
@@ -150,7 +150,7 @@ Mini Autonomous Robot
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Autonomous Robot Content
+   :caption: Lets Do it as a Team!!!
    
    ai_content/autonomous_driving/basic_concept/index
    ai_content/autonomous_driving/navigation/index
