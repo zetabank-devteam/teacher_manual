@@ -25,7 +25,7 @@ AI Autonomous Robot
    :figwidth: 80 %
    :align: center
 
-   White Zetabot with a Dragon Attachment
+   White Zetabot with a Dinosaur Attachment
 
 .. figure:: images/로봇팔_기본형_이미지_01.jpg
    :figwidth: 90 %
@@ -108,13 +108,14 @@ Mini Autonomous Robot
    ai_content/content_control/convergence/index
 
 
+.. role:: orange
+
 
 .. toctree::
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption: .. role:: orange
-                :orange: `testing`
+   :caption::orange: `testing`
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
