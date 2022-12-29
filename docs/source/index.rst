@@ -100,7 +100,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption: Contents for Controls
+   :caption: Lets Try It Out! ..Contents for Controls
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
@@ -119,14 +119,15 @@ Mini Autonomous Robot
 
 
 
-.. toctree::
+.. toctree:: 
+   :class: orange_head
    :titlesonly:
    :maxdepth: 2
    :hidden:
-   :caption: Contents for Experience
+   :caption: Having Fun with Zetabot
    
-   ai_content/experience_content/robot_arm/index
-   ai_content/experience_content/entertainment/index 
+   ai_content/having_fun/robot_arm/index
+   ai_content/having_fun/fun_trials/index 
 
 
 

@@ -1,6 +1,6 @@
-=============
-Entertainment
-=============
+==========
+Fun Trials
+==========
 
 Here are the articles in this section:
 

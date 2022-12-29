@@ -37,6 +37,8 @@ html_theme_options = {
     'navigation_depth': -1,
 }
 
+def setup(app):
+    app.add_stylesheet("css/toc_custom.css")
 # -- Referencing
 numfig = True
 

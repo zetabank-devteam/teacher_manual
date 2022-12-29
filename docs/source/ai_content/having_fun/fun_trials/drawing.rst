@@ -1,6 +1,16 @@
-==================
-Picking Up Objects
-==================
+==============
+Catching Robot
+==============
+
+
+Let play catch with our robots
+------------------------------
+
+.. image:: ../images/catch_monster_streaming.png
+
+
+
+
 
 -   2. 뽑기.ipynb
 -   | Running the cell code

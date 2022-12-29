@@ -1,6 +1,12 @@
-===============
-Robot Arm Dance
-===============
+=============
+Dancing Robot
+=============
+
+
+Lets dance with our robots
+--------------------------
+
+.. image:: ../images/dancegit.png
 
 -   1. 로봇팔.댄스.ipynb
 -   | Running the cell code
