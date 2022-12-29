@@ -8,26 +8,26 @@ Welcome to Zetabot user manual
 AI Autonomous Robot 
 -------------------
 
-.. figure:: images/교육용구동부_7인치모델_White_0712.817.png
+.. figure:: images/white_zeta.png
    :figwidth: 50 %
    :align: center
 
    White Zetabot
 
-.. figure:: images/교육용구동부이미지_400.png
+.. figure:: images/black_zeta.png
    :figwidth: 50 %
    :align: center
 
    Black Zetabot
 
 
-.. figure:: images/공룡버전_0526.png
+.. figure:: images/dino_zeta.png
    :figwidth: 80 %
    :align: center
 
    White Zetabot with a Dinosaur Attachment
 
-.. figure:: images/로봇팔_기본형_이미지_01.jpg
+.. figure:: images/arm_zeta.jpg
    :figwidth: 90 %
    :align: center
 
@@ -40,13 +40,13 @@ Mini Autonomous Robot
 ---------------------
 
 
-.. figure:: images/미니교육용구동부_W.11.png
+.. figure:: images/mini_white.png
    :figwidth: 45 %
    :align: center
    
    White Mini-Zetabot
 
-.. figure:: images/미니교육용구동부_W.24.png
+.. figure:: images/mini_black.png
    :figwidth: 45 %
    :align: center
    
