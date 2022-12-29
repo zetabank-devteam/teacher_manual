@@ -100,7 +100,7 @@ Mini Autonomous Robot
    :titlesonly:
    :maxdepth: 1
    :hidden:
-   :caption: Lets Try It Out! ..Contents for Controls
+   :caption: Lets Try It Out!
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index
@@ -120,7 +120,6 @@ Mini Autonomous Robot
 
 
 .. toctree:: 
-   :class: orange_head
    :titlesonly:
    :maxdepth: 2
    :hidden:
@@ -128,6 +127,8 @@ Mini Autonomous Robot
    
    ai_content/having_fun/robot_arm/index
    ai_content/having_fun/fun_trials/index 
+..   :class: orange_head
+   
 
 
 
