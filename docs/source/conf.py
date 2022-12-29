@@ -37,7 +37,8 @@ html_theme_options = {
     'navigation_depth': -1,
 }
 
-
+# -- Referencing
+numfig = True
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

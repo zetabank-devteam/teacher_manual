@@ -13,7 +13,8 @@ Jetson Nano & lidar assembly
 
    * - Picture
      - Description
-   * - |part_1|
+   * - .. image:: ../images/hetson_lidar_1.jpg
+          :scale: 45 %
      - 1. The process of assembling the base.
    * - |part_2|
      - 2. This is a picture with Jetson Nano inside.
@@ -33,6 +34,7 @@ Jetson Nano & lidar assembly
 Camera, Ultrasonic Sensor, Battery Assembly
 -------------------------------------------
 
+
 .. list-table:: 
    :header-rows: 1
 
@@ -47,7 +49,12 @@ Camera, Ultrasonic Sensor, Battery Assembly
    * - |part_24|
      - 4. If you combine the side plate here, the Zetabot is completed.
  
-.. |part_21| image:: ../images/modules_1.jpg
+
+
+
+.. |part_21| image:: ../images/modules_1.jpg             
 .. |part_22| image:: ../images/modules_2.jpg
 .. |part_23| image:: ../images/modules_3.jpg
 .. |part_24| image:: ../images/modules_4.jpg
+
+
