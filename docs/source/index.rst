@@ -126,12 +126,11 @@ Mini Autonomous Robot
    :caption: Contents for Experience
    
    experience_content/robot_arm/index
-   experience_content/entertainment/index
+   experience_content/entertainment/index 
 
 
 
 .. toctree::
-   :titlesonly:
    :maxdepth: 2
    :hidden:
    :caption: Autonomous Robot Content
