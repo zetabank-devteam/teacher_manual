@@ -31,10 +31,10 @@ ROS Topic Subscriber
         rospy.Subscriber("chatter", String, callback)
         rospy.spin()
 
--   listener 함수 생성
--   listener Node 생성
--   chatter Topic의 Message를 Subscribe
--   Subscriber Callback 처리
+-   Create listener function
+-   Create listener Node
+-   Subscribe to Chatter Topic Message
+-   Handle Subscriber Callback
 
 .. code-block:: python
 
