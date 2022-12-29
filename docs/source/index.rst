@@ -107,18 +107,19 @@ Mini Autonomous Robot
    ai_content/content_control/multi_media/index
    ai_content/content_control/convergence/index
 
-.. role:: orange
 
-   .. toctree::
-      :titlesonly:
-      :maxdepth: 1
-      :hidden:
-      :caption: :orange: `testing`
 
-      ai_content/content_control/communication/index
-      ai_content/content_control/robot_sensor/index
-      ai_content/content_control/multi_media/index
-      ai_content/content_control/convergence/index
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :hidden:
+   :caption: .. role:: orange
+                :orange: `testing`
+
+   ai_content/content_control/communication/index
+   ai_content/content_control/robot_sensor/index
+   ai_content/content_control/multi_media/index
+   ai_content/content_control/convergence/index
 
 
 .. toctree::
