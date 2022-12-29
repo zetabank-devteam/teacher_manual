@@ -125,8 +125,8 @@ Mini Autonomous Robot
    :hidden:
    :caption: Contents for Experience
    
-   experience_content/robot_arm/index
-   experience_content/entertainment/index 
+   ai_content/experience_content/robot_arm/index
+   ai_content/experience_content/entertainment/index 
 
 
 
