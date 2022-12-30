@@ -10,3 +10,4 @@ Here are the articles in this section:
   ros_rasp
   nvidia_inference
   jupyterlab
+  ces
