@@ -14,7 +14,7 @@ What is Local Cost map?
 |
 | **footprint**: This is the contour of the mobile base. In ROS, this is represented by a two-dimensional array of the form [x0, y0], [x1, y1], [x2, y2], ...]. This footprint is used to calculate the radii of the inscribed and circumscribed circles, which are used to inflate the obstacle to fit the robot. In general, to be safe, it's a good idea to define the footprint as slightly larger than the actual contour of the robot. 
 | **robot_radius**: If the robot is circular, use it instead of footprint.
-| 
+| **layer parameters**: Definition of each layer.
 |
 Obstacle Layer
 --------------
