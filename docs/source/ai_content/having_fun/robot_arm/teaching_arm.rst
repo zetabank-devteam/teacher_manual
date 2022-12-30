@@ -69,6 +69,7 @@ Robot Arm teaching
     # Initialize the learned motion.
     Arm.Arm_Clear_Action()
 
+-   Robot arm teaching and learned motion execution
 
 .. code-block:: python
 

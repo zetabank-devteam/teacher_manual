@@ -28,7 +28,7 @@ AI Autonomous Robot
    White Zetabot with a Dinosaur Attachment
 
 .. figure:: images/arm_zeta.jpg
-   :figwidth: 90 %
+   :figwidth: 100 %
    :align: center
 
    Black Zetabot with an Arm Attachemnt
