@@ -2,7 +2,8 @@
 ROS 1 (Jetson Nano)
 ======================
 
-.. image:: ../images/ros_jets.webp
+
+.. image:: ../images/ros.png
 
 * ROS Features
 
