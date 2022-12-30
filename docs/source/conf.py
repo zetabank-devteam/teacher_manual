@@ -30,7 +30,6 @@ templates_path = ['_templates']
 
 
 images_config = {
-    
     'download': True,
 }
 
