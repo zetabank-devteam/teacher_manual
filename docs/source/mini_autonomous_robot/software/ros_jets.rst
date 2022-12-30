@@ -4,11 +4,17 @@ ROS 1 (Jetson Nano)
 
 .. image:: ../images/ros_jets.webp
 
-* ROS 2 Features
+* ROS Features
 
-  1. Multi-platform support (Linux, macOS, Windows)
-  2. Real Time Control (RTPS, Real Time Publish Subscribe)
-  3. Supports various technologies such as Zeroconf, Protocol Buffers, ZeroMQ, and WebSockets
-  4. Using DDS middleware with Dynamic Discovery instead of roscore
+  1. Robot Operation System
+  2. Middleware that mediates the operating system and robot hardware
+  3. It is easy to reuse programs by exchanging messages between nodes
+  4. Various libraries and GUI-based interface support
+  5. Open source, a wide community of developers
   
+    * EN: ROS Discourse (`ROC_en`_)
+    * KR : 오로카 (`ROC_kr`_)
 
+.. _ROC_en: https://discourse.ros.org/
+.. _ROC_kr: https://cafe.naver.com/openrt
+    
