@@ -8,13 +8,13 @@ Cost_scaling_factor
 The following are the pictures of the change according to the value of the cost scaling factor of the global costmap.
 
 .. figure:: ../images/cost1.webp
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    cost scaling factor 3
 
 .. figure:: ../images/cost2.png
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    cost sclaing factor 10
@@ -22,13 +22,13 @@ The following are the pictures of the change according to the value of the cost 
 The following are the pictures of the change according to the value of the cost scaling factor of the local costmap.
 
 .. figure:: ../images/cost3.png
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    cost scaling factor 3
 
 .. figure:: ../images/cost4.png
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    cost scaling factor 10

@@ -7,13 +7,13 @@ Inflation Layer
 The following are the pictures of the change according to the value of inflation_radius in the global costmap.
 
 .. figure:: ../images/inflation_1.webp
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    inflation_radius is 0.8
 
 .. figure:: ../images/inflation_2.webp
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    inflation_radius is 1.5
@@ -21,13 +21,13 @@ The following are the pictures of the change according to the value of inflation
 The following are thepictures of the change according to the value of inflation_radius in the local costmap.
 
 .. figure:: ../images/inflation_3.webp
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    inflation_radius is 0.8
 
 .. figure:: ../images/inflation_4.webp
-   :figwidth: 50 %
+   :figwidth: 70 %
    :align: center
 
    inflation_radius is 0.32

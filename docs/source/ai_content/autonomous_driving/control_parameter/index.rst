@@ -16,7 +16,7 @@ Control Parameter
 
 Then enter the desired values and save. After completion, the navigation will run with the corresponding parameters.
 
-1. Entering parameter values in real time on the GUI
+2. Entering parameter values in real time on the GUI
 ----------------------------------------------------
 
 First, run the navigation, then run a new terminal and enter the command below.
