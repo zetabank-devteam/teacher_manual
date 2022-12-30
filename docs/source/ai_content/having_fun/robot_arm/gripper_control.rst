@@ -78,9 +78,9 @@ Gripper Control
 -   Pick and Place through servo motor and gripper control
 
 
--   Start
+
 .. code-block:: python
 
     del Arm   # Release DOFBOT object
 
-Remove robot arm object
+-   Remove robot arm object
