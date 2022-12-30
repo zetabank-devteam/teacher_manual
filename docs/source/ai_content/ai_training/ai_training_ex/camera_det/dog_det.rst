@@ -7,7 +7,7 @@ Detecting Dogs
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../../images/dog_det1.webp
+.. thumbnail:: ../../images/dog_det1.webp
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Detecting Dogs
 
 -   Detecting dogs with Raspberry Pi Camera
 
-.. image:: ../../images/dog_det2.webp
+.. thumbnail:: ../../images/dog_det2.webp
 
 
 -   Executed on Jetson Nano

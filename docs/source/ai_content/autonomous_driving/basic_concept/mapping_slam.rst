@@ -6,7 +6,7 @@ Mapping & SLAM
 What is mapping?
 ----------------
 
-.. image:: ../images/mapping_slam.webp
+.. thumbnail:: ../images/mapping_slam.webp
 
 | When we travel, we use maps to guide us to our destination.
 | As such, in order to perform autonomous driving, information mapping of the terrain is required.

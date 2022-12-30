@@ -6,7 +6,7 @@ Color Detection
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/rob_ai_2.png
+.. thumbnail:: ../images/rob_ai_2.png
 
 
 .. code-block:: python

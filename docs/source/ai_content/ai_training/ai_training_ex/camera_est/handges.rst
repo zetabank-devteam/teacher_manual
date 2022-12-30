@@ -7,7 +7,7 @@ Hand Gesture Recognition
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../../images/hand1.png
+.. thumbnail:: ../../images/hand1.png
 
 
 .. code-block:: python
@@ -26,7 +26,7 @@ Hand Gesture Recognition
 
 -   Hand Gesture Detection with Raspberry Pi Camera
 
-.. image:: ../../images/hand2.png
+.. thumbnail:: ../../images/hand2.png
 
 
 -   Executed on Jetson Nano

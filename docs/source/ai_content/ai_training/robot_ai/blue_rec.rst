@@ -6,7 +6,7 @@ Blue Color Detection
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/rob_ai_1.webp
+.. thumbnail:: ../images/rob_ai_1.webp
 
 
 .. code-block:: python

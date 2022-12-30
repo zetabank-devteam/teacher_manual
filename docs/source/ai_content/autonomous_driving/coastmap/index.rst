@@ -6,7 +6,7 @@ Global / Local Coastmap
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/global.png
+.. thumbnail:: ../images/global.png
 
 .. code-block:: python
 

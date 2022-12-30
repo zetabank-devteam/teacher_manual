@@ -7,9 +7,9 @@ Driving the Robot
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/robot_drive1.png
+.. thumbnail:: ../images/robot_drive1.png
 
-.. image:: ../images/robot_drive2.png
+.. thumbnail:: ../images/robot_drive2.png
 
 .. code-block:: python
 

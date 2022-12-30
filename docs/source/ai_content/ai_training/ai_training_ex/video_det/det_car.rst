@@ -6,7 +6,7 @@ Detecting Cars
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../../images/detcar1.png
+.. thumbnail:: ../../images/detcar1.png
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Detecting Cars
 
 -   Check the original video
 
-.. image:: ../../images/detcar2.png
+.. thumbnail:: ../../images/detcar2.png
 
 
 -   Executed on Jetson Nano
@@ -56,7 +56,7 @@ Detecting Cars
 
 -   Check the processed video 
 
-.. image:: ../../images/detcar3.png
+.. thumbnail:: ../../images/detcar3.png
 
 -   Executed on Jetson Nano
 

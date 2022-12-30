@@ -6,7 +6,7 @@ Detecting Oranges - alexnet
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../../images/alexnet1.webp
+.. thumbnail:: ../../images/alexnet1.webp
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Detecting Oranges - alexnet
 
 -   Check the original image
 
-.. image:: ../../images/googlenet2.png
+.. thumbnail:: ../../images/googlenet2.png
 
 
 -   Executed on Jetson Nano
@@ -56,7 +56,7 @@ Detecting Oranges - alexnet
 
 -   Check the detected image
 
-.. image:: ../../images/alexnet2.png
+.. thumbnail:: ../../images/alexnet2.png
 
 -   Executed on Jetson Nano
 
