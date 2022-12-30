@@ -29,7 +29,8 @@ Obstacle Layer
 |
 | Each source_name in observation_sources defines a namespace in which parameters can be defined.
 |
-| **/source_name/topic (default: source_name)**: The data type associated with the topic. Currently only "PointCloud," "PointCloud2," and "LaserScan" are supported.
+| **/source_name/topic (default: source_name)**: The topic of sensor data for this source. Defaults to the name of the source.
+| **/source_name/data_type (default: "PointCloud")**: The data type associated with that topic. Currently only "PointCloud," "PointCloud2," and "LaserScan" are supported.
 | **/source_name/clearing (default: false)**: Determines whether this observation will be used to clear free space.
 | **/source_name/marking (default: true)**: Determines whether this observation will be used to mark obstacles.
 | **/source_name/inf_is_valid (default: false)**: Determine whether to receive Inf value in "LaserScan" data message. The Inf value is converted to the maximum value that the laser sensor can measure.
