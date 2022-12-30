@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.images',
 ]
 
 intersphinx_mapping = {
@@ -26,6 +27,13 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+
+images_config = {
+    
+    'download': True,
+}
+
 
 # -- Options for HTML output
 

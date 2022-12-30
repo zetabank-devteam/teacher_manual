@@ -13,11 +13,15 @@ Simple Maneuverability Instructions for Mini Zetabot
 -   Running the cell code
     `Ctrl + Enter`
 
-.. image:: ../images/control1.png
-    :alt: control 1
+.. thumbnail:: ../images/control1.png
+    :title: 
+    
+    Control Python ipynb
 
-.. image:: ../images/control2.png
-    :alt: control 1
+.. thumbnail:: ../images/control2.png
+    :title: 
+    
+    Control Python ipynb
 
 -   Jupyter notebook with instructions for Forwards, Backwards, and Rotational movements
 
