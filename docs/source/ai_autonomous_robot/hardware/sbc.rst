@@ -4,7 +4,7 @@ SBC(Single Board Computer)
 
 This is a description of the Jetson Nano, the core of the Zetabot.
 
-.. image:: ../images/sbc_1.jpg
+.. thumbnail:: ../images/sbc_1.jpg
 
 .. list-table:: 
    :header-rows: 1

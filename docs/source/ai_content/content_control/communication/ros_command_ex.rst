@@ -6,7 +6,7 @@ ROS Command Example
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm3.png
+.. thumbnail:: ../images/comm3.png
 
 .. code-block:: bash
 
@@ -14,7 +14,7 @@ ROS Command Example
 
 -   Outputs a list of currently running ROS Nodes
 
-.. image:: ../images/comm4.webp
+.. thumbnail:: ../images/comm4.webp
 
 .. code-block:: bash
 
@@ -22,7 +22,7 @@ ROS Command Example
 
 -   Outputs joy_node Print Node information
 
-.. image:: ../images/comm5.png
+.. thumbnail:: ../images/comm5.png
 
 .. code-block:: bash
 
@@ -30,7 +30,7 @@ ROS Command Example
 
 -   Prints a list of currently running ROS topics
 
-.. image:: ../images/comm6.png
+.. thumbnail:: ../images/comm6.png
 
 .. code-block:: bash
 
@@ -38,7 +38,7 @@ ROS Command Example
 
 -   Output information of imu Topic
 
-.. image:: ../images/comm7.png
+.. thumbnail:: ../images/comm7.png
 
 .. code-block:: bash
 
@@ -47,7 +47,7 @@ ROS Command Example
 -   Print imu Topic Message
 
 
-.. image:: ../images/comm8.webp
+.. thumbnail:: ../images/comm8.webp
 
 .. code-block:: bash
 
@@ -55,7 +55,7 @@ ROS Command Example
 
 -   Check process list using pm2
 
-.. image:: ../images/comm9.png
+.. thumbnail:: ../images/comm9.png
 
 .. code-block:: bash
 

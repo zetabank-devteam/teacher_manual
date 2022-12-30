@@ -7,7 +7,7 @@ Speaker
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/mul1.png
+.. thumbnail:: ../images/mul1.png
 
 
 .. code-block:: python

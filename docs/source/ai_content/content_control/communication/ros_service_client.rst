@@ -7,9 +7,9 @@ ROS Service Client
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm12.png
+.. thumbnail:: ../images/comm12.png
 
-.. image:: ../images/comm13.png
+.. thumbnail:: ../images/comm13.png
 
 .. code-block:: python
 

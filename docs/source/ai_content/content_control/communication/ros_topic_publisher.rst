@@ -7,7 +7,7 @@ ROS Topic Publisher
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm1.webp
+.. thumbnail:: ../images/comm1.webp
 
 .. code-block:: python
 

@@ -6,7 +6,7 @@ Moving the Robot Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/arm1.webp
+.. thumbnail:: ../images/arm1.webp
 
 .. code-block:: python
 

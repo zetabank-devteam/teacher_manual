@@ -7,7 +7,7 @@ Read Servo Motor Angle
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/rob_arm1.png
+.. thumbnail:: ../images/rob_arm1.png
 
 .. code-block:: python
 

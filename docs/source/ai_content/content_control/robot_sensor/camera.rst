@@ -6,7 +6,7 @@ Camera
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/sensor4.png
+.. thumbnail:: ../images/sensor4.png
 
 
 .. code-block:: python

@@ -6,7 +6,7 @@ LIDAR
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/sensor5.png
+.. thumbnail:: ../images/sensor5.png
 
 
 .. code-block:: python

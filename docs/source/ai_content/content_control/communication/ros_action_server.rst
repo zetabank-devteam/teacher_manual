@@ -7,9 +7,9 @@ ROS Action Server
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm14.png
+.. thumbnail:: ../images/comm14.png
 
-.. image:: ../images/comm15.png
+.. thumbnail:: ../images/comm15.png
 
 .. code-block:: python
 

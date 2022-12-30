@@ -19,7 +19,7 @@
        | lidar and the other wirings.
 
  
-.. |part_1| image:: ../images/ras_1.jpg
-.. |part_2| image:: ../images/inst_2.jpg
-.. |part_3| image:: ../images/inst_3.jpg
+.. |part_1| thumbnail:: ../images/ras_1.jpg
+.. |part_2| thumbnail:: ../images/inst_2.jpg
+.. |part_3| thumbnail:: ../images/inst_3.jpg
 

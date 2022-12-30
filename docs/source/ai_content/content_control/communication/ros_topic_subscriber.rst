@@ -6,7 +6,7 @@ ROS Topic Subscriber
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/comm2.webp
+.. thumbnail:: ../images/comm2.webp
 
 .. code-block:: python
 

@@ -7,7 +7,7 @@ Processing Delay Publisher
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/conv1.png
+.. thumbnail:: ../images/conv1.png
 
 
 .. code-block:: python

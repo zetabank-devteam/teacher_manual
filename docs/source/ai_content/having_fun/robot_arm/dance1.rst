@@ -7,7 +7,7 @@ Robot Dance - 1
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/arm_dance1.png
+.. thumbnail:: ../images/arm_dance1.png
 
 -   Robot arm dance example with exciting music - 1
 

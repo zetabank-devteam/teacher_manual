@@ -6,7 +6,7 @@ Catching Robot
 Let play catch with our robots
 ------------------------------
 
-.. image:: ../images/catch_monster_streaming.png
+.. thumbnail:: ../images/catch_monster_streaming.png
 
 
 
@@ -16,7 +16,7 @@ Let play catch with our robots
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/drawing.webp
+.. thumbnail:: ../images/drawing.webp
 
 -   3 minute time limit
 -   Use the joystick to pick up objects

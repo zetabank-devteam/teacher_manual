@@ -7,7 +7,7 @@ Gripper Control
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/gripper1.png
+.. thumbnail:: ../images/gripper1.png
 
 .. code-block:: python
 

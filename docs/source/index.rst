@@ -72,14 +72,14 @@ Mini Autonomous Robot
 
 
 .. figure:: images/bumper1.png
-   :figwidth: 45 %
+   :figwidth: 35 %
    :align: center
 
    Zetabot light (Red)
 
 
 .. figure:: images/bumper2.png
-   :figwidth: 45 %
+   :figwidth: 35 %
    :align: center
 
    Zetabot light (blue)

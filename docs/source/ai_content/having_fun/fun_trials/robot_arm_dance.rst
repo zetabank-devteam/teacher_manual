@@ -6,13 +6,13 @@ Dancing Robot
 Lets dance with our robots
 --------------------------
 
-.. image:: ../images/dancegit.png
+.. thumbnail:: ../images/dancegit.png
 
 -   1. 로봇팔.댄스.ipynb
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/robot_arm_dance.webp
+.. thumbnail:: ../images/robot_arm_dance.webp
 
 -   Randomly moving robot arm dance
 

@@ -6,7 +6,7 @@ Time Slot Subscriber
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/conv4.png
+.. thumbnail:: ../images/conv4.png
 
 
 .. code-block:: python

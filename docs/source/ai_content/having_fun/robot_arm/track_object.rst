@@ -6,7 +6,7 @@ Tracking Objects with the Robotic Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. image:: ../images/track1.png
+.. thumbnail:: ../images/track1.png
 
 -   Recognition and tracking of blue, green, yellow and red objects using robotic arm camera
 -   Import head file
