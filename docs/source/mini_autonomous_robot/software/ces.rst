@@ -14,8 +14,10 @@ Simple Maneuverability Instructions for Mini Zetabot
     `Ctrl + Enter`
 
 .. image:: ../images/control1.png
+    :alt: control 1
 
 .. image:: ../images/control2.png
+    :alt: control 1
 
 -   Jupyter notebook with instructions for Forwards, Backwards, and Rotational movements
 
