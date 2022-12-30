@@ -34,18 +34,6 @@ AI Autonomous Robot
    Black Zetabot with an Arm Attachemnt
 
 
-.. figure:: images/bumper1.jpg
-   :figwidth: 100 %
-   :align: center
-
-   Simple Zetabot mini
-
-
-.. figure:: images/bumper2.jpg
-   :figwidth: 100 %
-   :align: center
-
-   Simple Zetabot mini
 
 
 
@@ -83,6 +71,18 @@ Mini Autonomous Robot
    Red Mini-Zetabot
 
 
+.. figure:: images/bumper1.png
+   :figwidth: 100 %
+   :align: center
+
+   Simple Zetabot mini
+
+
+.. figure:: images/bumper2.png
+   :figwidth: 100 %
+   :align: center
+
+   Simple Zetabot mini
 
 
 
