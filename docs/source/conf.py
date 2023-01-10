@@ -6,8 +6,8 @@ project = 'Zetabot'
 # copyright = '2021, Graziella'
 author = 'Zetabank'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.1.2'
+version = '0.1.2'
 
 # -- General configuration
 
@@ -37,12 +37,14 @@ images_config = {
 
 # -- Options for HTML output
 
+html_logo = "_static/logo.png"
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'analytics_id': 'UA-17821189-2',
     'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': -1,
+    'logo_only': True,
 }
 
 def setup(app):

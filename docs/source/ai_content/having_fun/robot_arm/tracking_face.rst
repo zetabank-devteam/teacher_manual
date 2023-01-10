@@ -88,6 +88,8 @@ Tracking a Face with the Robotic Arm
 
 
 -   Start
+
+
 .. code-block:: python
 
     display(controls_box,output)

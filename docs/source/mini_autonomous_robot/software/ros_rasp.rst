@@ -21,8 +21,7 @@ ROS 2 (Raspberry)
   5. Communication using XMLRPC, TCPROS protocol
   6. Improved build tool using ament tool instead of catkin tool
 
-     - 
-CMake-based catkin cannot manage python packages, only available in single workspace
+     - CMake-based catkin cannot manage python packages, only available in single workspace
 
   7. Improvement of security vulnerabilities using a separate ID instead of ROS Master's IP and PORT
 
