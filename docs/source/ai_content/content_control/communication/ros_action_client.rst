@@ -7,7 +7,7 @@ ROS Action Client
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/comm16.png
+.. thumbnail:: /_images/content_control/comm16.png
 
 
 .. code-block:: python

@@ -2,7 +2,7 @@
 NVIDIA Inference
 ================
 
-.. thumbnail:: ../images/nvidia_interface.png
+.. thumbnail:: /_images/ai_autonomous_robot/nvidia_interface.jpg
 
 - NVIDIA Inference Features
 

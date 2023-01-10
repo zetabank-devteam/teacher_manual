@@ -7,13 +7,13 @@ Cost_scaling_factor
 
 The following are the pictures of the change according to the value of the cost scaling factor of the global costmap.
 
-.. figure:: ../images/cost1.webp
+.. figure:: /_images/autonomous_driving/cost1.webp
    :figwidth: 70 %
    :align: center
 
    cost scaling factor 3
 
-.. figure:: ../images/cost2.png
+.. figure:: /_images/autonomous_driving/cost2.png
    :figwidth: 70 %
    :align: center
 
@@ -21,13 +21,13 @@ The following are the pictures of the change according to the value of the cost 
 
 The following are the pictures of the change according to the value of the cost scaling factor of the local costmap.
 
-.. figure:: ../images/cost3.png
+.. figure:: /_images/autonomous_driving/cost3.png
    :figwidth: 70 %
    :align: center
 
    cost scaling factor 3
 
-.. figure:: ../images/cost4.png
+.. figure:: /_images/autonomous_driving/cost4.png
    :figwidth: 70 %
    :align: center
 

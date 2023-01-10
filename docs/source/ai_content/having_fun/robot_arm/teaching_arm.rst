@@ -6,7 +6,7 @@ Robot Arm teaching
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/teaching1.png
+.. thumbnail:: /_images/having_fun/teaching1.png
 
 .. code-block:: python
 

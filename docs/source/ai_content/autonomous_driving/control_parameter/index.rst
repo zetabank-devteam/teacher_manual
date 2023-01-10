@@ -25,7 +25,7 @@ First, run the navigation, then run a new terminal and enter the command below.
 
     $ rosrun rqt_reconfigure rqt_reconfigure
 
-.. image:: ../images/gui.png
+.. image:: /_images/autonomous_driving/gui.png
 
 
 When the corresponding screen is executed, judge the performance of the navigation in real time by adjusting the values suitable for each parameter.

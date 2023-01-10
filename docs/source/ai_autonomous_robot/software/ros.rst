@@ -2,7 +2,7 @@
 ROS
 ===
 
-.. thumbnail:: ../images/ros.png
+.. thumbnail:: /_images/ai_autonomous_robot/ros.jpg
 
 * ROS Features
 

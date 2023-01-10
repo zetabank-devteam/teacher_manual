@@ -6,7 +6,7 @@ Time Slot Publisher
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/conv3.png
+.. thumbnail:: /_images/content_control/conv3.png
 
 
 .. code-block:: python

@@ -12,6 +12,7 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+    'sphinx_rtd_theme',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -45,7 +46,7 @@ html_theme_options = {
 }
 
 def setup(app):
-    app.add_stylesheet("css/toc_custom.css")
+    app.add_css_file("css/toc_custom.css")
 # -- Referencing
 numfig = True
 

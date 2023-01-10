@@ -6,7 +6,7 @@ Tracking a Face with the Robotic Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/face1.png
+.. thumbnail:: /_images/having_fun/face1.png
 
 -   Face Recognition and Tracking Using Robot Arm Camera
 -   Import head file

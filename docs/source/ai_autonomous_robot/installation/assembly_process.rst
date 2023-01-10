@@ -13,7 +13,7 @@ Jetson Nano & lidar assembly
 
    * - Picture
      - Description
-   * - .. thumbnail:: ../images/hetson_lidar_1.jpg
+   * - .. thumbnail:: /_images/ai_autonomous_robot/hetson_lidar_1.jpg
           :width: 100 %
      - 1. The process of assembling the base.
    * - |part_2|
@@ -23,14 +23,14 @@ Jetson Nano & lidar assembly
    * - |part_4|
      - 4. This is the lidar sensor on the top of the Zetabot.
  
-.. |part_1| thumbnail:: ../images/hetson_lidar_1.jpg
-.. |part_2| thumbnail:: ../images/hetson_lidar__2.jpg
-.. |part_3| thumbnail:: ../images/hetson_lidar_3.jpg
-.. |part_4| thumbnail:: ../images/hetson_lidar_4.jpg
+.. |part_1| thumbnail:: /_images/ai_autonomous_robot/hetson_lidar_1.jpg
+.. |part_2| thumbnail:: /_images/ai_autonomous_robot/hetson_lidar__2.jpg
+.. |part_3| thumbnail:: /_images/ai_autonomous_robot/hetson_lidar_3.jpg
+.. |part_4| thumbnail:: /_images/ai_autonomous_robot/hetson_lidar_4.jpg
 
 
 |
--------------------------------------------
+
 Camera, Ultrasonic Sensor, Battery Assembly
 -------------------------------------------
 
@@ -52,9 +52,9 @@ Camera, Ultrasonic Sensor, Battery Assembly
 
 
 
-.. |part_21| thumbnail:: ../images/modules_1.jpg             
-.. |part_22| thumbnail:: ../images/modules_2.jpg
-.. |part_23| thumbnail:: ../images/modules_3.jpg
-.. |part_24| thumbnail:: ../images/modules_4.jpg
+.. |part_21| thumbnail:: /_images/ai_autonomous_robot/modules_1.jpg             
+.. |part_22| thumbnail:: /_images/ai_autonomous_robot/modules_2.jpg
+.. |part_23| thumbnail:: /_images/ai_autonomous_robot/modules_3.jpg
+.. |part_24| thumbnail:: /_images/ai_autonomous_robot/modules_4.jpg
 
 

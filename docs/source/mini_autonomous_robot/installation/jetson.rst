@@ -19,7 +19,7 @@
        | lidar and the other wirings.
 
  
-.. |part_1| thumbnail:: ../images/ras_1.jpg
-.. |part_2| thumbnail:: ../images/inst_2.jpg
-.. |part_3| thumbnail:: ../images/inst_3.jpg
+.. |part_1| thumbnail:: /_images/ai_autonomous_robot/ras_1.jpg
+.. |part_2| thumbnail:: /_images/ai_autonomous_robot/inst_2.jpg
+.. |part_3| thumbnail:: /_images/ai_autonomous_robot/inst_3.jpg
 

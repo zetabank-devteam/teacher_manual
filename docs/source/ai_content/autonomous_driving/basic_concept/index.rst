@@ -4,7 +4,7 @@ Basic Concept & Terminology
 
 This is an autonomous driving overview page
 
-.. thumbnail:: ../images/basic_concept.svg
+.. thumbnail:: /_images/autonomous_driving/basic_concept.svg
 
 
 .. toctree::

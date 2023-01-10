@@ -6,7 +6,7 @@ IMU
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/sensor1.webp
+.. thumbnail:: /_images/content_control/sensor1.webp
 
 
 .. code-block:: python

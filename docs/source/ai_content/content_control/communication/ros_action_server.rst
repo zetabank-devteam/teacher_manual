@@ -7,9 +7,9 @@ ROS Action Server
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/comm14.png
+.. thumbnail:: /_images/content_control/comm14.png
 
-.. thumbnail:: ../images/comm15.png
+.. thumbnail:: /_images/content_control/comm15.png
 
 .. code-block:: python
 
@@ -66,7 +66,7 @@ ROS Action Server
 -   Fibonacci operation
 -   Reference
 
-    `http://wiki.ros.org/actionlib_tutorials/Tutorials/Writing%20a%20Simple%20Action%20Server%20using%20the%20Execute%20Callback%20(Python)`__future__
+    `<http://wiki.ros.org/actionlib_tutorials/Tutorials/Writing%20a%20Simple%20Action%20Server%20using%20the%20Execute%20Callback%20(Python)>`_
 
 
 .. code-block:: python

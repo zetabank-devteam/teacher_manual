@@ -8,27 +8,28 @@ Welcome to Zetabot user manual
 AI Autonomous Robot 
 -------------------
 
-.. figure:: images/white_zeta.png
+.. figure:: /_images/index/white_zeta.jpg
    :figwidth: 50 %
    :align: center
 
    White Zetabot
 
-.. figure:: images/black_zeta.png
+.. figure:: /_images/index/black_zeta.jpg
    :figwidth: 50 %
    :align: center
 
    Black Zetabot
 
 
-.. figure:: images/dino_zeta.png
+.. figure:: /_images/index/dino_zeta.jpg
    :figwidth: 80 %
    :align: center
 
    White Zetabot with a Dinosaur Attachment
 
-.. figure:: images/arm_zeta.jpg
+.. figure:: /_images/index/arm_zeta.jpg
    :figwidth: 100 %
+   :width: 80 %
    :align: center
 
    Black Zetabot with an Arm Attachemnt
@@ -42,43 +43,43 @@ Mini Autonomous Robot
 ---------------------
 
 
-.. figure:: images/mini_white.png
-   :figwidth: 45 %
+.. figure:: /_images/index/mini_white.jpg
+   :figwidth: 70 %
    :align: center
    
    White Mini-Zetabot
 
-.. figure:: images/mini_black.png
-   :figwidth: 45 %
+.. figure:: /_images/index/mini_black.jpg
+   :figwidth: 70 %
    :align: center
    
    Black Mini-Zetabot
 
 
-.. figure:: images/mini_yellow.JPG
-   :figwidth: 45 %
+.. figure:: /_images/index/mini_yellow.JPG
+   :figwidth: 70 %
    :width: 60 %
    :align: center
 
    Yellow Mini-Zetabot
 
 
-.. figure:: images/mini_red.JPG
-   :figwidth: 45 %
+.. figure:: /_images/index/mini_red.JPG
+   :figwidth: 70 %
    :width: 60 %
    :align: center
 
    Red Mini-Zetabot
 
 
-.. figure:: images/bumper1.png
-   :figwidth: 35 %
+.. figure:: /_images/index/bumper1.jpg
+   :figwidth: 30 %
    :align: center
 
    Zetabot light (Red)
 
 
-.. figure:: images/bumper2.png
+.. figure:: /_images/index/bumper2.jpg
    :figwidth: 35 %
    :align: center
 
@@ -118,21 +119,6 @@ Mini Autonomous Robot
 
    ai_content/content_control/communication/index
    ai_content/content_control/robot_sensor/index   
-   ai_content/content_control/multi_media/index
-   ai_content/content_control/convergence/index
-
-
-.. role:: orange
-
-
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :hidden:
-   :caption: :orange: `testing`\ndsd
-   :caption: test
-   ai_content/content_control/communication/index
-   ai_content/content_control/robot_sensor/index
    ai_content/content_control/multi_media/index
    ai_content/content_control/convergence/index
 

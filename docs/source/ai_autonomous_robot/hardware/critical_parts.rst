@@ -36,8 +36,8 @@ These are the main parts of Zetabot.
        | Output: 14.8V / 9.4Ah (139.12Wh)
 
 
-.. |part_1| thumbnail:: ../images/parts_1.webp 
-.. |part_2| thumbnail:: ../images/parts_2.webp 
-.. |part_3| thumbnail:: ../images/parts_3.webp 
-.. |part_4| thumbnail:: ../images/parts_4.webp 
-.. |part_5| thumbnail:: ../images/parts_5.jpg
+.. |part_1| thumbnail:: /_images/ai_autonomous_robot/parts_1.webp 
+.. |part_2| thumbnail:: /_images/ai_autonomous_robot/parts_2.webp 
+.. |part_3| thumbnail:: /_images/ai_autonomous_robot/parts_3.webp 
+.. |part_4| thumbnail:: /_images/ai_autonomous_robot/parts_4.webp 
+.. |part_5| thumbnail:: /_images/ai_autonomous_robot/parts_5.jpg

@@ -7,7 +7,7 @@ Processing Delay Subscriber
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/conv2.png
+.. thumbnail:: /_images/content_control/conv2.png
 
 
 .. code-block:: python

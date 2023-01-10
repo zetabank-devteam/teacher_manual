@@ -20,10 +20,10 @@ Summary
        | (Jetson Nano)
 
 
-.. |part_1| thumbnail:: ../../images/mini_white.png 
-.. |part_2| thumbnail:: ../../images/mini_black.png 
-.. |part_3| thumbnail:: ../../images/mini_red.JPG 
-              :width: 75 %
-.. |part_4| thumbnail:: ../../images/mini_yellow.JPG
-              :width: 75 %
+.. |part_1| thumbnail:: /_images/index/mini_white.jpg 
+.. |part_2| thumbnail:: /_images/index/mini_black.jpg 
+.. |part_3| thumbnail:: /_images/index/mini_red.JPG 
+              :width: 70 %
+.. |part_4| thumbnail:: /_images/index/mini_yellow.JPG
+              :width: 70 %
 

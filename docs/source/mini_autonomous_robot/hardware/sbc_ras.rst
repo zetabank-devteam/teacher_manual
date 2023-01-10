@@ -2,9 +2,9 @@
 SBC(Raspberry PI 4B)
 ====================
 
-This is a description of the Jetson Nano, the core of the Zetabot.
+This is a description of the Raspberry PI 4B, the core of the Zetabot.
 
-.. thumbnail:: ../images/sbc_ras.webp
+.. thumbnail:: /_images/ai_autonomous_robot/sbc_ras.webp
 
 .. list-table:: 
    :header-rows: 1

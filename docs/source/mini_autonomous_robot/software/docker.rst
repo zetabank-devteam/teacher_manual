@@ -1,8 +1,8 @@
-================
+======
 Docker
-================
+======
 
-.. image:: ../images/docker.webp
+.. image:: /_images/ai_autonomous_robot/docker.webp
 
 - Docker Features
 

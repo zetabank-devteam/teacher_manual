@@ -7,9 +7,9 @@ ROS Service Server
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/comm10.webp
+.. thumbnail:: /_images/content_control/comm10.webp
 
-.. thumbnail:: ../images/comm11.webp
+.. thumbnail:: /_images/content_control/comm11.webp
 
 .. code-block:: python
 

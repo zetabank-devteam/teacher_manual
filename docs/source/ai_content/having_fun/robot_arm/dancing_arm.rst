@@ -6,7 +6,7 @@ Dancing with the Robot Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/dance1.png
+.. thumbnail:: /_images/having_fun/dance1.png
 
 .. code-block:: python
 

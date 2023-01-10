@@ -11,20 +11,20 @@ A description of the mapping.
 
 1.  Turn on the Zeta-Bot's power switch.
     
-    .. thumbnail:: ../images/turnonzeta.jpg
+    .. thumbnail:: /_images/autonomous_driving/turnonzeta.jpg
 
 2.  Click the mapping button.
     
-    .. thumbnail:: ../images/clickmapping.jpg
+    .. thumbnail:: /_images/autonomous_driving/clickmapping.jpg
 
 3.  Try mapping by moving the Zetabot. The part measured in red is the data measured by LIDAR.
     Black is the wall measured by LIDAR through the SLAM algorithm.
     
-    .. thumbnail:: ../images/mapping.jpg
+    .. thumbnail:: /_images/autonomous_driving/mapping.jpg
 
 4.  Control the Zetabot joystick
 
-    .. thumbnail:: ../images/controller.png
+    .. thumbnail:: /_images/autonomous_driving/controller.png
     
     1. Power button
     2. When the joystick vibrates, it is a signal that the ZetaBot and the joystick are connected.
@@ -40,22 +40,22 @@ Navigation In-Action
 
 1.  When mapping is finished, click the Navigation button.
 
-    .. thumbnail:: ../images/nav_1.jpg
+    .. thumbnail:: /_images/autonomous_driving/nav_1.jpg
 
 2.  Run localization with 2D Pose Estimate.
 
     During this stage, it is recommended for LIDAR to have measured the obstacles in green and map them to some extent.
 
-    .. thumbnail:: ../images/nav_2.jpg
+    .. thumbnail:: /_images/autonomous_driving/nav_2.jpg
 
-    .. thumbnail:: ../images/nav_3.jpg
+    .. thumbnail:: /_images/autonomous_driving/nav_3.jpg
 
 3.  If you click 2D Nav Goal to set the target, the settings for autonomous driving is set.
 
-    .. thumbnail:: ../images/nav_4.jpg
+    .. thumbnail:: /_images/autonomous_driving/nav_4.jpg
 
-.. toctree:: 
-    :hidden:
+.. .. toctree:: 
+..     :hidden:
 
-    AI Autonomous Robot 
-    Navigation In-Action
+..     AI Autonomous Robot 
+..     Navigation In-Action

@@ -7,7 +7,7 @@ Controlling Servo Motors
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/motor_cont1.webp
+.. thumbnail:: /_images/having_fun/motor_cont1.webp
 
 .. code-block:: python
 

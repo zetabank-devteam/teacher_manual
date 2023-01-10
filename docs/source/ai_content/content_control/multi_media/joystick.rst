@@ -7,7 +7,7 @@ Joystick Vibration
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/mul2.png
+.. thumbnail:: /_images/content_control/mul2.png
 
 
 .. code-block:: python

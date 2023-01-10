@@ -4,7 +4,7 @@ Option: 6-axis robot arm
 
 This is a description of the 6-axis DOF bot.
 
-.. thumbnail:: ../images/six_axis.jpg
+.. thumbnail:: /_images/ai_autonomous_robot/six_axis.jpg
 
 .. list-table:: 
    :header-rows: 1

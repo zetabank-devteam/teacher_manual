@@ -6,7 +6,7 @@ Driving the Robot (Odometry)
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/odometry1.png
+.. thumbnail:: /_images/autonomous_driving/odometry1.png
 
 .. code-block:: python
 

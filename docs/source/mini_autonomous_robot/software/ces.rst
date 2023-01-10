@@ -13,12 +13,12 @@ Simple Maneuverability Instructions for Mini Zetabot
 -   Running the cell code
     `Ctrl + Enter`
 
-.. thumbnail:: ../images/control1.png
+.. thumbnail:: /_images/ai_autonomous_robot/control1.jpg
     :title: 
     
     Control Python ipynb
 
-.. thumbnail:: ../images/control2.png
+.. thumbnail:: /_images/ai_autonomous_robot/control2.jpg
     :title: 
     
     Control Python ipynb

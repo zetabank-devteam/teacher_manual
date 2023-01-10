@@ -4,4 +4,4 @@ Block Diagram
 
 This is a simple block diagram of Zetabot.
 
-.. thumbnail:: ../images/block_diagram.svg
+.. thumbnail:: /_images/ai_autonomous_robot/block_diagram.svg

@@ -2,7 +2,7 @@
 JupyterLab
 ==========
 
-.. image:: ../images/jupyter.png
+.. image:: /_images/ai_autonomous_robot/jupyter.jpg
 
 * JupyterLab Features
 

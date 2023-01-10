@@ -2,7 +2,7 @@
 ROS 2 (Raspberry)
 ======================
 
-.. image:: ../images/ros_jets.webp  
+.. image:: /_images/ai_autonomous_robot/ros_jets.webp  
 
 * ROS 2 Features
 

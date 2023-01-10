@@ -6,8 +6,8 @@ Sonar
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../images/sensor2.webp
-.. thumbnail:: ../images/sensor3.webp
+.. thumbnail:: /_images/content_control/sensor2.webp
+.. thumbnail:: /_images/content_control/sensor3.webp
 
 
 .. code-block:: python
