@@ -7,7 +7,7 @@ Detecting Oranges - googlenet
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/googlenet1.webp
+.. thumbnail:: /_images/ai_training/googlenet1.webp
 
 
 .. code-block:: python
@@ -26,7 +26,7 @@ Detecting Oranges - googlenet
 
 -   Check the original image
 
-.. thumbnail:: ../../images/googlenet2.png
+.. thumbnail:: /_images/ai_training/googlenet2.png
 
 
 -   Executed on Jetson Nano
@@ -58,7 +58,7 @@ Detecting Oranges - googlenet
 
 -   Check the detected image
 
-.. thumbnail:: ../../images/googlenet3.png
+.. thumbnail:: /_images/ai_training/googlenet3.png
 
 -   Executed on Jetson Nano
 

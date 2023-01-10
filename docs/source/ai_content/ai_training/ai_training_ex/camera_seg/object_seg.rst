@@ -7,7 +7,7 @@ Object Segmentation
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/obj_seg1.png
+.. thumbnail:: /_images/ai_training/obj_seg1.png
 
 
 .. code-block:: python
@@ -26,7 +26,7 @@ Object Segmentation
 
 -   Object Segmentation with Raspberry Pi Camera
 
-.. thumbnail:: ../../images/obk_seg2.png
+.. thumbnail:: /_images/ai_training/obk_seg2.png
 
 
 -   Executed on Jetson Nano

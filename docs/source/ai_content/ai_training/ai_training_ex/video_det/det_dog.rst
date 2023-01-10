@@ -6,7 +6,7 @@ Detecting Dogs
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/detdog1.webp
+.. thumbnail:: /_images/ai_training/detdog1.webp
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Detecting Dogs
 
 -   Check the original video
 
-.. thumbnail:: ../../images/detdog2.webp
+.. thumbnail:: /_images/ai_training/detdog2.webp
 
 
 -   Executed on Jetson Nano
@@ -57,7 +57,7 @@ Detecting Dogs
 
 -   Check the processed video 
 
-.. thumbnail:: ../../images/detdog3.webp
+.. thumbnail:: /_images/ai_training/detdog3.webp
 
 -   Executed on Jetson Nano
 

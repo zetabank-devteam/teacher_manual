@@ -7,7 +7,7 @@ Object Detection
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/det_obj1.png
+.. thumbnail:: /_images/ai_training/det_obj1.png
 
 
 .. code-block:: python
@@ -26,7 +26,7 @@ Object Detection
 
 -   Object Recognition with Raspberry Pi Camera
 
-.. thumbnail:: ../../images/det_obj2.png
+.. thumbnail:: /_images/ai_training/det_obj2.png
 
 
 -   Executed on Jetson Nano

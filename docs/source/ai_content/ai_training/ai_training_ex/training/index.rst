@@ -7,12 +7,12 @@ Write '10 lines' example code
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/training1.png
+.. thumbnail:: /_images/ai_training/training1.png
 
 -   Used Language: Python
 -   Real-time object detection code using Raspberry Pi Camera
 
-.. thumbnail:: ../../images/training2.png
+.. thumbnail:: /_images/ai_training/training2.png
 
 
 .. code-block:: python
@@ -49,7 +49,7 @@ Write '10 lines' example code
 
 -   Try the 10 line example
 
-.. thumbnail:: ../../images/training3.png
+.. thumbnail:: /_images/ai_training/training3.png
 
 -   Executed on Jetson Nano
 

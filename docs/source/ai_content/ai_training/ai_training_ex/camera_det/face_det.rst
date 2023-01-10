@@ -6,7 +6,7 @@ Facial Detection
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/det_face1.png
+.. thumbnail:: /_images/ai_training/det_face1.png
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Facial Detection
 
 -   Facial Recognition with Raspberry Pi Camera
 
-.. thumbnail:: ../../images/det_face3.png
+.. thumbnail:: /_images/ai_training/det_face3.png
 
 
 -   Executed on Jetson Nano

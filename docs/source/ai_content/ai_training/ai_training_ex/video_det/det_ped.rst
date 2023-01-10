@@ -6,7 +6,7 @@ Detecting Pedestrians
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/det_ped1.webp
+.. thumbnail:: /_images/ai_training/det_ped1.webp
 
 
 .. code-block:: python
@@ -25,7 +25,7 @@ Detecting Pedestrians
 
 -   Check the original video
 
-.. thumbnail:: ../../images/det_ped2.webp
+.. thumbnail:: /_images/ai_training/det_ped2.webp
 
 
 -   Executed on Jetson Nano
@@ -57,7 +57,7 @@ Detecting Pedestrians
 
 -   Check the processed video 
 
-.. thumbnail:: ../../images/det_ped3.webp
+.. thumbnail:: /_images/ai_training/det_ped3.webp
 
 -   Executed on Jetson Nano
 

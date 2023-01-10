@@ -7,7 +7,7 @@ Depth Estimation
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: ../../images/dept_est1.png
+.. thumbnail:: /_images/ai_training/dept_est1.png
 
 
 .. code-block:: python
@@ -26,7 +26,7 @@ Depth Estimation
 
 -   Depth Estimation with Raspberry Pi Camera
 
-.. thumbnail:: ../../images/dept_est2.png
+.. thumbnail:: /_images/ai_training/dept_est2.png
 
 
 -   Executed on Jetson Nano
