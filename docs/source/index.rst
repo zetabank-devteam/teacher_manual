@@ -124,14 +124,13 @@ Mini Autonomous Robot
 
 
 .. toctree::
-   :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 5
    :hidden:
    :caption: AI Training Content
 
    ai_content/ai_training/robot_ai/index
    ai_content/ai_training/ai_training_ex/index
-
+   ai_content/ai_training/inference_train_ex/index
 
 
 .. toctree:: 
@@ -165,5 +164,5 @@ Mini Autonomous Robot
    :caption: Documentation
 
    documentation/nvidia_tao/index
-   documentation/jetson_nano/index
+   .. documentation/jetson_nano/index
 
