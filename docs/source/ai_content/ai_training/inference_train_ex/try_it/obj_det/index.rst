@@ -59,7 +59,8 @@ The detectnet program is a python based program. The program may be ran directly
 or through our pre-built script ran on the Jupyter Notebook environment. 
 
 
-The execution of the program demands three different inputs from the user.
+These are the different parameters that can the adjusted to the users need. 
+**(Note)** The input and output information must be given. 
 
 - The network name that will be used for the inference
 - The input source (file path if it is an image(s) or a video(s))

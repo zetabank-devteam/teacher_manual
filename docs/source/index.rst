@@ -134,6 +134,18 @@ Mini Autonomous Robot
 
 
 .. toctree:: 
+   :maxdepth: 5
+   :hidden:
+   :caption: Training with AI 
+
+   lecture/googlenet/index
+   lecture/alexnet/index
+   lecture/do_it_together
+   lecture/gesture/index
+   lecture/pose/index
+
+
+.. toctree:: 
    :titlesonly:
    :maxdepth: 2
    :hidden:
