@@ -60,7 +60,7 @@ The program launching process along with parameter settings are all simplified a
         !python3 $PROGRAM_PATH/posenet.py --network=resnet18-body $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
 
 
-    .. thumbnail:: /_images/ai_training/pose_result.jpg
+
 
 |
 
@@ -70,3 +70,6 @@ The program launching process along with parameter settings are all simplified a
     .. code-block:: python
 
         Image(filename=output_path+'/human_result.jpg') 
+
+
+    .. thumbnail:: /_images/ai_training/pose_result.jpg
