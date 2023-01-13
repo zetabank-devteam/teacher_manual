@@ -1,0 +1,72 @@
+Follow Along!
+==============
+
+
+The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment. 
+
+(The Jetson Board used for these examples are => Jetson Nano)
+
+-   pose_estimation.ipynb
+-   | Running the cell code
+    | `Ctrl + Enter`
+
+.. thumbnail:: /_images/ai_training/pose_estimation.png
+
+
+-   Initialize your output stream, and your path, and import in the Image library
+
+.. code-block:: python
+
+    from IPython.display import Image
+
+    %env DISPLAY=:0
+    %env PROGRAM_PATH=/home/zeta/jetson-inference/build/aarch64/bin
+    %env INPUT_PATH=/home/zeta/jetson-inference/build/aarch64/bin/images
+    %env OUTPUT_PATH=/home/zeta/jetson-inference/build/aarch64/bin/images/test
+
+    input_path='/home/zeta/jetson-inference/build/aarch64/bin/images'
+    output_path='/home/zeta/jetson-inference/build/aarch64/bin/images/test'
+
+
+
+-   Check all the available human pictures within the system
+
+    .. code-block:: python
+
+        !ls $INPUT_PATH/humans_*
+
+
+    .. thumbnail:: /_images/ai_training/pose_1.png
+
+|
+
+-   Pick one of the image with human(s) and initialize the image/ output name. 
+
+    .. code-block:: python
+
+        image_name = 'humans_9.jpg'
+        output_name = 'human_result.jpg'
+        %env IMAGE_NAME = $image_name
+        %env OUTPUT_NAME = $output_name
+
+        Image(filename=input_path+'/'+image_name) 
+
+
+-   Guess the pose!
+
+    .. code-block:: python
+
+        %%capture
+        !python3 $PROGRAM_PATH/posenet.py $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
+
+
+    .. thumbnail:: /_images/ai_training/googlenet3.png
+
+|
+
+-   Show the resulting image
+
+
+    .. code-block:: python
+
+        Image(filename=OUTPUT_PATH+'/human_result.jpg') 

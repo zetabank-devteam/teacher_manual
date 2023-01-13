@@ -141,8 +141,8 @@ Mini Autonomous Robot
    lecture/googlenet/index
    lecture/alexnet/index
    lecture/do_it_together
-   lecture/gesture/index
    lecture/pose/index
+   .. lecture/gesture/index
 
 
 .. toctree:: 

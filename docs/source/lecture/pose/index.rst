@@ -1,5 +1,5 @@
-AI Image Recognition using GoogleNet
-=====================================
+Body Pose Estimation with Pose-ResNet18-Body
+=============================================
 
 
 Here are the contents for this section:
