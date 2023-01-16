@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Zetabot'
+project = 'Instructors Version'
 # copyright = '2021, Graziella'
 author = 'Zetabank'
 
@@ -38,13 +38,14 @@ images_config = {
 # -- Options for HTML output
 html_static_path = ['_static']
 html_logo = "_static/logo.png"
+html_title = "ZetaBank - Instructor Version"
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'analytics_id': 'UA-17821189-2',
     'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 4,
-    'logo_only': True,
+    'logo_only': False,
 }
 
 def setup(app):
