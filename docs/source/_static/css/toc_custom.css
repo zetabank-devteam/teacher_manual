@@ -1,9 +1,9 @@
 @import url("default.css");
 
-/* span.caption-text {
+.wy-menu span.caption-text {
     color: orange;
-} */
+}
 
-.orange {
-    color: black;
+.wy-side-nav-search, .wy-nav-top {
+    background: orange;
 }

@@ -1,5 +1,5 @@
-AI Image Recognition using GoogleNet
-=====================================
+Sematic Segmentation with FCN-ResNet18
+=============================================
 
 
 Here are the contents for this section:
