@@ -78,6 +78,7 @@ Within the convolutional output later, different deconvolutional methods
 are applied to approximate the segmentation to the real picture as 
 close as possible. 
 
+*reference* `<https://medium.com/@msmapark2/fcn-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-fully-convolutional-networks-for-semantic-segmentation-81f016d76204>`_
 
 Here are all the datasets trained on FCN-ResNet18 with their labels:
 

@@ -38,5 +38,5 @@ that can identify faces, objects and others in a detailed and accurate way.
 
 
 
-*reference:  https://github.com/dusty-nv/jetson-inference/blob/master/docs/imagenet-console-2.md*
-*reference: https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
+*reference:*  `<https://github.com/dusty-nv/jetson-inference/blob/master/docs/imagenet-console-2.md>`_
+*reference:* `<https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939>`_

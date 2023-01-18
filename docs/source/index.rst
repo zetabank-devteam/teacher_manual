@@ -143,6 +143,7 @@ Mini Autonomous Robot
    lecture/do_it_together
    lecture/pose/index
    lecture/segmentation/index
+   robot_arm/index
 
 
 .. toctree:: 
