@@ -381,5 +381,8 @@ Pick up a Paper and place it somewhere else!
 ---------------------------------------------
 
 Now that we have built our program, using the GUI control and grab a piece of paper and place it somewhere else. 
+
+.. thumbnail:: /_images/ai_training/gui.png
+    
  
 (**IMPORTANT**) It is highly recommended that you change and experiment around the mission_lib.py file and see how the movement of the arm is set up. 
