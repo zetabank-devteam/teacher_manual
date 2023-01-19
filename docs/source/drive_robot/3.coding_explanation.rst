@@ -230,3 +230,6 @@ To start the odometry calculation, we will have to put the Subscribers into a th
 After assigning the Subscribed functions to the thread and starting the thread, you have initialized the starting position of the robot. 
 
 Now, whenever the robot is moved with the move information created above, the odometry information will be calculated and displayed automatically. 
+
+.. thumbnail:: /_images/ai_training/odom_info.png 
+
