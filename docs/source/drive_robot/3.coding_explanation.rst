@@ -7,10 +7,15 @@ Robot Movement
 For our movement, there are four main instructions that we may send
 to our robot. 
 
+... MoveForward, MoveBackward, TurnLeft, TurnRight, MoveDelta, TurnDelta
+
 1. Move Forward indefinitely 
 2. Move Forward for a cetrain distance
-3. Turn for a specified angle
-4. Stop the movement. 
+3. Move Backward indefinitely
+4. Turn for a specified angle
+5. Turn Left
+6. Turn Right 
+7. Stop the movement. 
 
 All of the above commands are transmitted to the robot through a Publisher 
 object in a json string format.
@@ -69,7 +74,15 @@ Sending commands
         python_dict = {"MoveDelta": 1} # 1 as in 1 meters. (if the number is negative, the robot will go backwards.)
         json_string = json.dumps(python_dict)
 
-  3. Turning around for a specific angle.
+  3. Moving Backward
+
+    .. code-block:: python 
+
+        python_dict = {"MoveBackward": 1}
+        json_string = json.dumps(python_dict)
+  
+
+  4. Turning around for a specific angle.
      
      - The angle information must be given in a radian metric. We import math library so that we may use degrees and convert it into radian within the instructions. 
 
@@ -78,7 +91,25 @@ Sending commands
         python_dict = {"TurnDelta": math.radians(90)} # Turn anti-clockwise for 90 degrees. (if the number is negative the robot will turn clockwise)
         json_string = json.dumps(python_dict)
 
-  4. Stopping any movement
+  4. Turning Left
+     
+     - The angle information must be given in a radian metric. We import math library so that we may use degrees and convert it into radian within the instructions. 
+
+    .. code-block:: python 
+
+        python_dict = {"TurnLeft": 1} # Turn anti-clockwise for 90 degrees. (if the number is negative the robot will turn clockwise)
+        json_string = json.dumps(python_dict)
+ 
+  4. Turning Right
+     
+     - The angle information must be given in a radian metric. We import math library so that we may use degrees and convert it into radian within the instructions. 
+
+    .. code-block:: python 
+
+        python_dict = {"TurnRight": 1} # Turn anti-clockwise for 90 degrees. (if the number is negative the robot will turn clockwise)
+        json_string = json.dumps(python_dict)
+
+  5. Stopping any movement
 
     .. code-block:: python 
 
