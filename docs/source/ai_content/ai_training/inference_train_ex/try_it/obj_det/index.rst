@@ -81,11 +81,9 @@ The program launching process along with parameter settings are all simplified a
 
 .. toctree:: 
 
-  Launching the Program
-  Examples through Jupyter Notebook
   det_car
   det_ped
-  det_dogs
+  det_dog
   det_obj
   det_face
   det_dog_cam

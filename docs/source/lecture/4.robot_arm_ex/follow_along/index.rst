@@ -5,15 +5,8 @@ Here are the follow along contents:
 
 .. toctree:: 
 
-    1.moving_arm
-    2.motor_angle
-    3.motor_cont
-    4.dancing_arm
-    5.teaching_arm
-    6.track_color
-    7.tracking_face
-    8.gripper_control
-    sound/index
+    basic_control/index
+    advanced_control/index
 
 Make sure to choose the Python2 as your kernel within your jupyter environment. 
 

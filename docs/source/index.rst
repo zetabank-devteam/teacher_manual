@@ -111,6 +111,20 @@ Mini Autonomous Robot
    mini_autonomous_robot/hardware/index
    mini_autonomous_robot/software/index
 
+
+.. toctree:: 
+   :maxdepth: 5
+   :hidden:
+   :caption: Hands-on Lecture Examples 
+
+   lecture/1.robot_control/index
+   lecture/2.ai_training/index
+   lecture/3.driving_ex/index
+   lecture/4.robot_arm_ex/index
+
+
+
+
 .. toctree::
    :titlesonly:
    :maxdepth: 1
@@ -133,19 +147,18 @@ Mini Autonomous Robot
    ai_content/ai_training/inference_train_ex/index
 
 
-.. toctree:: 
-   :maxdepth: 5
-   :hidden:
-   :caption: Training with AI 
+.. .. toctree:: 
+..    :maxdepth: 5
+..    :hidden:
+..    :caption: Training with AI 
 
-   lecture/googlenet/index
-   lecture/alexnet/index
-   lecture/do_it_together
-   lecture/pose/index
-   lecture/segmentation/index
-   robot_arm/index
-   drive_robot/index
-
+..    lecture/googlenet/index
+..    lecture/alexnet/index
+..    lecture/do_it_together
+..    lecture/pose/index
+..    lecture/segmentation/index
+..    robot_arm/index
+..    drive_robot/index
 
 .. toctree:: 
    :titlesonly:
@@ -178,5 +191,6 @@ Mini Autonomous Robot
    :caption: Documentation
 
    documentation/nvidia_tao/index
-   .. documentation/jetson_nano/index
+   
+.. documentation/jetson_nano/index
 

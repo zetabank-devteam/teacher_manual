@@ -22,4 +22,4 @@ Pre-Requisites
 ---------------
 
 The setup files as well as the example files are from the NVIDIA provided getting started package. 
-For installation steps refer to: **TAO 
+For installation steps refer to:

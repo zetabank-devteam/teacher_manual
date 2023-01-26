@@ -5,9 +5,11 @@ Lets try to create our own custom robot arm control system.
 
 With this task, we will accomplish the followings:
 
+
 1. Generate Graphical User Interface (GUI) that displays the robot arm camera. 
 2. Controls that would allow the robot arm to move and pick up a piece of paper. 
 3. Ability to play and stop the music while operating above tasks. 
+
 
 Libraries used for this Mission
 ------------------------------------------
@@ -62,6 +64,25 @@ mission_lib custom Library
   - *Arm*: for storing the Arm_Device object (User Input when initializing the **Movement** object )
   - *first_angle*: for storing angle information for the first servo (default value: 90)
   - *third_angle*: for storing angle information for the third servo (default value: 45)
+  - *pincher_angle*: for storing angle information for the pincher (sixth) servo (default value: 90) 
+
+  .. code-block:: python 
+
+    class Movement:
+        """
+        Functions for robot arm movements
+        
+        :Arm: Robot Arm object
+        :first_angle: Angle for first servo
+        :third_angle: Angle for third servo
+        :time: The time length for the movement 
+        """
+        
+        def __init__(self, Arm):
+            self.Arm = Arm
+            self.first_angle = 90
+            self.third_angle = 45
+            self.pincher_angle = 90
 
 - There are total of 4 main functions for up, down, left, right movement and 2 minor functions for moving the pincher. 
   All the functions recieve time parameter from the user. This defined how fast a movement is to be finished. On our main notebook, we pre-define 3 different time variables to be put into the functions.
@@ -129,13 +150,19 @@ mission_lib custom Library
 
         def move_pincher(self, time):
             """
-            Pinch the pincher
+            Pinch the pincher, If the limit is reached, stop the update. 
             
             :param time: Movement time for the Robot Arm 
             :type: int
             
             """
-            self.Arm.Arm_serial_servo_write(6, 165, time)
+            if self.pincher_angle >= 165:
+                self.pincher_angle = 165
+                self.Arm.Arm_serial_servo_write(6, self.pincher_angle, time)
+            else:
+                self.pincher_angle += 5
+                self.Arm.Arm_serial_servo_write(6, self.pincher_angle, time)
+
 
     - Pincher (Release):
 
@@ -149,8 +176,8 @@ mission_lib custom Library
             :type: int
             
             """
-            
-            self.Arm.Arm_serial_servo_write(6, 90, time)
+            self.pincher_angle = 90
+            self.Arm.Arm_serial_servo_write(6, self.pincher_angle, time)
 
     
 
@@ -377,12 +404,14 @@ Open the mission folder and open the mission.ipynb file.
   - Be sure to delete the robot arm after exiting the GUI. 
 
 
-Pick up a Paper and place it somewhere else!
----------------------------------------------
+Pick up an object and place it somewhere else!
+-------------------------------------------------
 
-Now that we have built our program, using the GUI control and grab a piece of paper and place it somewhere else. 
+Now that we have built our program, using the GUI control and grab an object and place it somewhere else. 
 
 .. thumbnail:: /_images/ai_training/gui.png
     
  
-(**IMPORTANT**) It is highly recommended that you change and experiment around the mission_lib.py file and see how the movement of the arm is set up. 
+(**IMPORTANT**) 
+- The preset angles of the arm might not be fit for the environment you are in. Go to the ``mission_lib.py`` to change the angles or add more servo motor updates. 
+- It is highly recommended that you change and experiment around the mission_lib.py file and see how the movement of the arm is set up. 

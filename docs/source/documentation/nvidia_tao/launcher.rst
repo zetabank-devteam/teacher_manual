@@ -244,7 +244,7 @@ Launching TAO toolkit
 
                 !rm -rf $USER_EXPERIMENT_DIR/experiment_dir_name/*
             
-            This is especially important if you wish to run multiple different variation of the model with different hyper_parameters. **Currently TAO does not support any automatic hyper-parameter tuner, instead offers sample hyper-parameters **
+            This is especially important if you wish to run multiple different variation of the model with different hyper_parameters. **Currently TAO does not support any automatic hyper-parameter tuner, instead offers sample hyper-parameters**
             `<https://forums.developer.nvidia.com/t/hyperparameter-optimization/194174/2>`_
 
 4. **Handling Launched Processes**
