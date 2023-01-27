@@ -6,7 +6,7 @@ For navigation system for our robot we need to have
 
 1. **Costmap** for obstacle detection
 2. **AMCL** for adaptive localization
-3. **DWA** for obstacle avoidance planning 
+3. **DWA** for obstacle avoidance planning and avoiding obstacles
 
 Costmap
 -------------
@@ -105,3 +105,39 @@ For example, on the image below, we can see the converging location from t1 time
 
 .. thumbnail:: /_images/ai_training/bel_final2.png
 
+Dynamic Window Approach (DWA)
+---------------------------------
+
+Dynamic Window Approach is a method for obstacle avoidance planning and avoiding obstacles. That is, a method that will quickly reach a target point while avoiding 
+obstacles that can possibly collide with the robot.
+
+
+In DWA the robot is not represented in X and Y coordinates but rather in the velocity search space with translation velocity v and the rotational velocity w as axes. 
+
+.. thumbnail:: /_images/ai_training/dwa1.png
+
+|
+
+Within the velocity search space, the robot has a maximum allowable speed due to hardware limitations and this is called Dynamic Window.
+
+
+|    *v*: Translational velocity (meter/sec)
+|    *w*: Rotational velocity (radian/sec)
+|    *Vs*: Maximum velocity area
+|    *Va*: Permissible velocity area
+|    *Vc*: Current velocity
+|    *Vr*: Speed area in Dynamic Window
+|    *a_max*: Maximum acceleration / deceleration rate
+|    *G(v, w) = v(a·heading(v, w) + b·dist(v, w) + c·velocity(v, w))*: Objective function
+|    *heading(v, w)*: 180 - (difference between the direction of the robot and the direction of the target point)
+|    *dist(v, w)*: Distance to the obstacle
+|    *velocity(v, w)*: Selected velocity
+|    alpha, beta, gamma: Weighting constant
+|    v(x): Smooth Function
+
+
+In the dynamic window, the objective function *G(v, w)* is used to calculate the translational velocty *v* and the rotational velocity *w* 
+that maximizes the objective function which considers the direction, velocity and collision of the robot. With plotting, we can find optimal
+velocity among various *v* and *w* options to destination. 
+
+.. thumbnail:: /_images/ai_training/dwa2.png
