@@ -6,7 +6,7 @@ Open the following jupyter notebook:
 - 01_02_ros_topic_subscriber.ipynb
 - To run the cells within the notebook use *Ctrl + Enter*
 
-.. thumbnail:: /_images/content_control/comm2.webp
+.. thumbnail:: /_images/content_control/comm2.jpg
 
 |
 

@@ -8,7 +8,7 @@ Open the following jupyter notebook:
 - To run the cells within the notebook use *Ctrl + Enter*
 
 
-.. thumbnail:: /_images/content_control/comm1.webp
+.. thumbnail:: /_images/content_control/comm1.jpg
 
 |
 

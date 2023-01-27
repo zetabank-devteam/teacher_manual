@@ -120,7 +120,8 @@ Mini Autonomous Robot
    lecture/1.robot_control/index
    lecture/2.ai_training/index
    lecture/3.driving_ex/index
-   lecture/4.robot_arm_ex/index
+   lecture/4.slam_nav/index
+   lecture/5.robot_arm_ex/index
 
 
 
