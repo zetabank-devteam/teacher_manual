@@ -95,3 +95,6 @@ Within our robot, we use odometry information with IMU sensors and LIDAR sensor 
 calculated with dead reckoning method, which is further corrected with Particle Filtering pose estimation methodology. 
 By the result of SLAM we should have the pose of the robot and sensor, obstacle information, and occupancy grid map. 
 
+
+
+pictures taken from: `<http://jinyongjeong.github.io/2017/02/22/lec11_Particle_filter/>`_
