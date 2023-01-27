@@ -30,7 +30,7 @@ In the particle filter method, the uncertain pose is described by particles call
 placed, but as we recieve motion model and probability of our robot location , we can start to move these particles with weights calculated 
 from the actual measurements, and gradually decrease the noise to have a precise pose. 
 
-For our application, each of the particle is represented with 4 values: **pose(x, y, i), and weight**. (**i** representing the number of the particle).
+For our application, each of the particle is represented with 4 values: **pose(x, y, i)**, and **weight**. (**i** representing the number of the particle).
 The particle filter goes through 5 steps, repeating steps 2-5 until the desired precision is met. 
 
 
