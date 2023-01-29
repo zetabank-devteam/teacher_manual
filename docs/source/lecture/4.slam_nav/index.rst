@@ -101,6 +101,7 @@ Theory
 
     slam_theory
     navigation_theory
+    mission
     
 
 .. link1:: http://docs.ros.org/en/api/geometry_msgs/html/msg/Pose.html
