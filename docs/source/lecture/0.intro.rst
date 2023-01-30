@@ -1,0 +1,9 @@
+Introduction
+==============
+
+Welcome to Hands-On Lecture Examples!
+
+.. youtube::  7_u3JyOqbPo
+
+|
+|

@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.images',
+    'sphinxcontrib.youtube',
 ]
 
 intersphinx_mapping = {

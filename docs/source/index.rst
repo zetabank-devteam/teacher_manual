@@ -117,11 +117,14 @@ Mini Autonomous Robot
    :hidden:
    :caption: Hands-on Lecture Examples 
 
-   lecture/1.robot_control/index
+   lecture/0.intro
+   lecture/1.driving_ex/index
    lecture/2.ai_training/index
-   lecture/3.driving_ex/index
+   lecture/3.robot_control/index
    lecture/4.slam_nav/index
    lecture/5.robot_arm_ex/index
+   lecture/6.cv/index
+   lecture/7.digital_twin/index
 
 
 
@@ -189,9 +192,18 @@ Mini Autonomous Robot
 .. toctree:: 
    :maxdepth: 2
    :hidden:
-   :caption: Documentation
+   :caption: Build Turorial
 
-   documentation/nvidia_tao/index
+   build_tutorial/1.auto_kit/index
+   build_tutorial/2.a2_kit/index
+   build_tutorial/3.expert_kit/index
+
+
+.. toctree:: 
+   :caption: Let's apply our knowledge
+
+   documentation/virtual/index
+   documentation/transfer/index
    
 .. documentation/jetson_nano/index
 

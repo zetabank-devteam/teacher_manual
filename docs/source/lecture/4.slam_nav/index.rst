@@ -46,7 +46,7 @@ orientation estimation method that can be paired with relatively cheap sensor. T
 and the inertial error margins are counted for with sensors such as IMU. 
 
 Within our first robot control examples. we saw that our pose information was defined as (x, y, z, w) within the ROS. This is a 
-positional representation that is in quaternion form which allows for more detailed positional information. refer to [link1]_ for more information. 
+positional representation that is in quaternion form which allows for more detailed positional information. refer to `<http://docs.ros.org/en/api/geometry_msgs/html/msg/Pose.html>`_ for more information. 
 
 For startersm we would need the center X, Y information of our robot as well as the wheel-to-wheel distance in D, and wheel radius for dead 
 reckoning.
@@ -101,7 +101,11 @@ Theory
 
     slam_theory
     navigation_theory
-    mission
-    
 
-.. link1:: http://docs.ros.org/en/api/geometry_msgs/html/msg/Pose.html
+
+Mission
+---------------
+
+.. toctree:: 
+
+    mission 
