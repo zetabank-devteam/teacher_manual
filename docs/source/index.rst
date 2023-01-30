@@ -194,8 +194,9 @@ Mini Autonomous Robot
    :hidden:
    :caption: Build Turorial
 
+   build_tutorial/intro
    build_tutorial/1.auto_kit/index
-   build_tutorial/2.a2_kit/index
+   build_tutorial/2.ai_kit/index
    build_tutorial/3.expert_kit/index
 
 
