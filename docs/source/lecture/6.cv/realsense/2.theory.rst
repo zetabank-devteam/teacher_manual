@@ -10,7 +10,8 @@ stereo camera set up to calculate the distance of an object.
 
 .. thumbnail:: /_images/ai_training/Model-of-parallel-stereo-camera.png
 
-Our Expert DIY Kit utilizies RealSense D435 Camera which is equipped with stereo
+Our Expert DIY Kit utilizies RealSense D435 Camera which is equipped with stereo camera, IR Projector, and a RGB Module.
+
 
 
 
