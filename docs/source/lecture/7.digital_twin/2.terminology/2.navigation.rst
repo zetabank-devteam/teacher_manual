@@ -42,7 +42,7 @@ In order to create a Occupancy Map:
 8. Save the occupancy map in the map directory. 
 9. Open the ``/home/zetabank/dev_ws/src/zeta_navigation/zeta_2dnav/launch`` directory, and create a ``.launch file`` that follows these form:
 
-    .. code-block:: launch
+    .. code-block:: xml
 
         <launch>
             <param name="use_sim_time" value="true" />
@@ -73,3 +73,41 @@ In order to create a Occupancy Map:
 
             <node type="rviz" name="rviz" pkg="rviz" args="-d $(find zeta_2dnav)/rviz/zeta_2dnav.rviz" />
         </launch> 
+
+    - Launch files are .launch formatted specific XML files. It is used to organize and initiate multiple exectutions within a workspace directory. 
+
+      The contents of the launch file must be contained in a launch tags.
+
+      .. code-block:: xml 
+
+          <launch> ... </launch>
+
+    - Nodes are started with <node> tags where the arguments pkg, type and name must be provided.
+    
+      .. code-block:: xml 
+        
+        <node pkg="..." type="..." name="..." respawn=true ...>
+    
+    - We can see that, when we are importing our map, we are specifying the location of the map at the args arguments:
+
+      .. code-block:: xml 
+
+        <!-- Run the map server --> 
+        <node name="map_server" pkg="map_server" type="map_server" args="$(find zeta_2dnav)/map/name of the yaml file.yaml" />
+
+    - We can also notice that we are initializing the starting position of our robot (within the map)
+
+      .. code-block:: xml
+
+        <!-- starting position of the robot>    
+        <param name="/amcl/initial_pose_x"  value="3.5"/>
+        <param name="/amcl/initial_pose_y"  value="0.4"/>
+        <param name="/amcl/initial_pose_a"  value="-3.14"/>
+
+10. To activate the navigation task, execute the launch file with the following command. (Make sure to open a new terminal)
+
+    .. code-block:: bash
+
+        roslaunch zeta_2dnav zeta_navigation.launch
+
+
