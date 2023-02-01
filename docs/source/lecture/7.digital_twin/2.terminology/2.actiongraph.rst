@@ -41,7 +41,7 @@ Let us dissect this action graph and take a closer look at the action graph resp
           - 0.22
         * - wheelRadius
           - 0.035
-
+  
 - **Articulation Controller Node**: This node sends commands to a target robot by taking in the names or indices of the joints that needs to be moved. The commands are given either in Position Commands, Velocity Commands or Effort Commands. Our application only has to send information to the 2 wheel joints and recieve only Velocity Commands. 
   
-  - The two wheel joints can be represented as a constant token node and can be put into an array using the Make Array Node. 
+  - The two wheel joints can be represented as a **Constant Token Node** with ``wheel_right_joint``, ``wheel_left_joint`` for each of the wheels and can be put into an array using the **Make Array** Node. 
