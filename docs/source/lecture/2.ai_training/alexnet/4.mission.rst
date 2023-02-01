@@ -1,7 +1,31 @@
-Mission
-==========
+Mission 
+=======================
 
-Let us try to identify different objects with our GoogleNet image idenfitication system. 
+
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: AlexNet Image Identification System
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
+            <div class="line"><strong>-</strong> Identify the different images stored within the system using the AlexNet Image Identification System.</div>
+            <div class="line"><strong>-</strong> Within your individual computers, execute the following mission. </div>
+        </div>
+    </div>
+
+
+
+.. raw:: html
+
+    <div style="position: relative; color: black; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <h2>Overall Description:</h2>
+    </div>
+
+
+
+Let us try to identify different objects with the AlexNet image idenfitication system. 
 
 For this mission, you will be tasked to see the image identification system work 
 on different pictures. We will work with the with the image identification program

@@ -1,9 +1,13 @@
 @import url("default.css");
 
 .wy-menu span.caption-text {
-    color: orange;
+    color: #ffbf00;
 }
 
 .wy-side-nav-search, .wy-nav-top {
-    background: orange;
+    background: #ffbf00;
+}
+
+.rst-content .custom .admonition-title:before {
+    content: ""
 }

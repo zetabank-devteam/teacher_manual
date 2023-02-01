@@ -1,14 +1,29 @@
-Mission
-==========
+Mission 
+=======================
 
-For our Pose Estimation Mission, we will 
 
-    -   First, create our custom poseNet program
-    -   Second, adjust the overlay settings of our result
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Custom Pose Estimation System
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
+            <div class="line"><strong>-</strong> First, create the custom poseNet program which utilizes zetabot camera.</div>
+            <div class="line"><strong>-</strong> Second, adjust the overlay settings of our result. </div>
+            <div class="line"><strong>-</strong> Within your individual computers, execute the following mission.  </div>
+        </div>
+    </div>
+
+
+
 
 
 Writing Custom poseNet Program
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 Similar to how we created a new python file in our team assignment, generate a new python file and name it ``pose_estimation_camera.py``.
 
@@ -158,7 +173,7 @@ Create a new python file in the Jupyter Notebook Environment:
 
 
 Executing the Custom Program
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -   Open the ``pose_estimation_camera.ipynb`` notebook.
 
@@ -212,7 +227,7 @@ Executing the Custom Program
 
 
 Let's Change the Overlay!!!
-----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -   With the minor functions explanation, we have discussed many parameters that controls the overlay settings. Try to tweak the execution cell in your jupyter notebook to change how the results are overlayed.
 

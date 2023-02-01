@@ -1,8 +1,19 @@
-Mission
-==========
+Mission 
+=======================
 
-For our Semantic Segmentation Mission, let us write our own segmentation program.
 
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Custom Segmentation System
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
+            <div class="line"><strong>-</strong> Create the custom segmetation program which utilizes zetabot camera.</div>
+            <div class="line"><strong>-</strong> Within your individual computers, execute the following mission.  </div>
+        </div>
+    </div>
 
 Writing Custom segNet Program
 ---------------------------------

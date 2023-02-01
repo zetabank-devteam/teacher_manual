@@ -1,6 +1,25 @@
-Image Recognition using Camera
+Mission Project
 ===============================
 
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Image Recognition using Camera
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is a <strong>group project</strong></div>
+            <div class="line"><strong>-</strong> Create an Image Recognition program which utilizes zetabot camera</div>
+            <div class="line"><strong>-</strong> Within your team, discuss and complete the given mission.</div>
+            <div class="line"><strong>-</strong> It is recommended that the final code be on the Leaders computer. (Simultaneous commands to the robot must be avoided!)</div>
+        </div>
+    </div>
+
+.. raw:: html
+
+    <div style="position: relative; color: black; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <h2>Overall Description:</h2>
+    </div>
 
 ZetaBot is equipped with Raspberry Pi camera located on the front panel.
 Using this camera we can classify real life object using either GoogleNet, or AlexNet networks. 

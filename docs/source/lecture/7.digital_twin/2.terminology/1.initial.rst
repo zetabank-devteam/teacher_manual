@@ -54,6 +54,9 @@ Robot Driving
 
 Within the zeta variable in the Stage window, we can see a variable named **ActionGraph**. This variable reprsents the ROS bridges in forms of OmniGraph nodes. 
 
+For more information on ActionGraph: :ref:`action-label`
+
+
 To access the ActionGraph:
 
 - Open the Action Graph window (Window -> Visual Scripting -> Action Graph)

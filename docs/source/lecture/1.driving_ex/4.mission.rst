@@ -1,24 +1,23 @@
-Mission
-========
-
+Mission Project
+===============================
 
 .. raw:: html
 
-    <div style="position: relative; color: #ff7700; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <h2>Obstacle Avoidance System</h2>
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Obstacle Avoidance System
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is a <strong>group project</strong></div>
+            <div class="line"><strong>-</strong> Try different combinations of instructions with your team so that the robot successfully avoids the obstacle. </div>
+            <div class="line"><strong>-</strong> It is recommended that the final code be on the Leaders computer. (Simultaneous commands to the robot must be avoided!)</div>
+        </div>
     </div>
 
-.. note:: 
-
-    | **-** This mission is a **group project**
-    | **-** Try different combinations of instructions with your team so that the robot successfully avoids the obstacle. 
-    | **-** It is recommended that the final code be on the Leaders computer. (Simultaneous commands to the robot must be avoided!)
-
-
 .. raw:: html
 
-    <div style="position: relative; color: #ff7700; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <h2>Explanation</h2>
+    <div style="position: relative; color: black; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <h2>Overall Description:</h2>
     </div>
 
 For this mission, with the examples discussed earlier, lets try to create a function that contains 

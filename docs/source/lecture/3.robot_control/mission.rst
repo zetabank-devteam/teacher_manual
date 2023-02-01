@@ -1,6 +1,24 @@
 Mission
 =========
 
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Robot Sensor Visualization
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
+            <div class="line"><strong>-</strong> Access the Isaac Sight server and discuss the different visuals within your team.</div>
+            <div class="line"><strong>-</strong> With your team members, see the different visual outcomes by moving the robot using "driving robot" examples. </div>
+        </div>
+    </div>
+
+.. raw:: html
+
+    <div style="position: relative; color: black; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <h2>Overall Description:</h2>
+    </div>
 
 With our examples of Topics and Nodes within the ROS we were able to establish unidirectional communication channel topic and communicate with 
 publisher and subscriber nodes. 

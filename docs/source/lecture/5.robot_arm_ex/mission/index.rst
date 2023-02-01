@@ -1,14 +1,22 @@
-Mission
-========
+Mission Project
+==================
 
-Lets try to create our own custom robot arm control system. 
+.. raw:: html
 
-With this task, we will accomplish the followings:
-
-
-1. Generate Graphical User Interface (GUI) that displays the robot arm camera. 
-2. Controls that would allow the robot arm to move and pick up a piece of paper. 
-3. Ability to play and stop the music while operating above tasks. 
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Project Name: Robot Arm Control System
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> This mission is a <strong>group project</strong></div>
+            <div class="line"><strong>-</strong> Within your team, create a custom robot arm control system</div>
+            <div class="line"><strong>-</strong> System should be able to: </div>
+            <div class="line">&emsp;<strong>1.</strong>  Generate Graphical User Interface (GUI) that displays the robot arm camera.  </div>
+            <div class="line">&emsp;<strong>2.</strong> Controls that would allow the robot arm to move and pick up objects.   </div>
+            <div class="line">&emsp;<strong>3.</strong> Ability to play and stop the music while operating above tasks.  </div>
+            <div class="line"><strong>-</strong> It is recommended that the final code be on the Leaders computer. (Simultaneous commands to the robot must be avoided!)</div>
+        </div>
+    </div>
 
 
 Libraries used for this Mission
