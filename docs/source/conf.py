@@ -6,8 +6,8 @@ project = 'Instructors Version'
 # copyright = '2021, Graziella'
 author = 'Zetabank'
 
-release = '0.1.2'
-version = '0.1.2'
+release = '0.1.3'
+version = '0.1.3'
 
 # -- General configuration
 
