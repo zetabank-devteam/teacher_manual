@@ -1,0 +1,16 @@
+Discussion
+=============
+
+The Pose Estimation system allows for us to estimate the pose or gesture a human is doing through a computer 
+
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Group Discussion Points
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> If you were to apply this system to a consumer product, what kind of product would that be?</div>
+            <div class="line"><strong>-</strong> If you could improve the Pose Estimation system, how and what would you impove?</div>
+        </div>
+    </div>

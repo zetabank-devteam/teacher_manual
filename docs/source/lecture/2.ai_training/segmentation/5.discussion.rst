@@ -1,0 +1,15 @@
+Discussion
+=============
+
+The Segmentation system allows us to differentiate the environment. through our examples we were able to see how the system can be applied to variety of different applications.  
+
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Group Discussion Points
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> If you could create your own segmentation system, where would it be used? And how would you train your segmentation model?</div>
+        </div>
+    </div>

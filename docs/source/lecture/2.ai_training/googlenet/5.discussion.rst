@@ -1,0 +1,15 @@
+Discussion
+=============
+
+Image Recognition system is a cornerstone for many real life applications ranging from self driving cars to security systems. 
+
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Group Discussion Points
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> Where do you think GoogleNet is used within the Google ecosystem (google search engine, email, etc.,)</div>
+        </div>
+    </div>

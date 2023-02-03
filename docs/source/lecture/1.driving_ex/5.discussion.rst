@@ -1,0 +1,17 @@
+Discussion
+=============
+
+We use a Publisher to send commands to the robot command Topic which moves our robot. Although we specify the distance, the robot does not always move correctly. 
+
+.. raw:: html
+
+    <div style="background: #ffe5b4" class="admonition note custom">
+        <p style="background: #ffbf00" class="admonition-title">
+            Group Discussion Points
+        </p>
+        <div class="line-block">
+            <div class="line"><strong>-</strong> What are the different hardware factors that contributes to the movement error of the robot?</div>
+            <div class="line"><strong>-</strong> What are the different software factors that contributes to the movement error of the robot?</div>
+            <div class="line"><strong>-</strong> For specific tasks such as Navigation or Auto Drive, we need our robots to behave correctly. How can we avoid/ or compensate these movement errors?</div>
+        </div>
+    </div>

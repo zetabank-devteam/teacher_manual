@@ -76,7 +76,7 @@ Create a new python file in the Jupyter Notebook Environment:
 
 -   After importing in the necessary modules, initialize the necessary variables. Since we wish to infer a network with a camera and show the results with our output stream we will need:
 
-    1.  ``net`` variable for holding the nvidia pre-built networks. For this mission we are using googleNet network.
+    1.  ``net`` variable for holding the nvidia pre-built networks. For this mission we are using googleNet network. (but you may change it to different net).
     2.  ``camera`` variable for handling the input stream. Since our zetabot uses Raspberry Pi camera, the registration of the devices is ``csi://0``.
     3.  ``display`` variable for handling the output stream. Although we are accessing the code remotely on our remote computer, the zetabot is equipped with a touch screen display. The display is set on ``DISPLAY://0``
     4.  ``font`` variable for handling the overlay text for our output stream. 

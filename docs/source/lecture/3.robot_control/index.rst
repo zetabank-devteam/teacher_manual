@@ -9,3 +9,4 @@ Here are the contents for this section:
     ros_topic_control/index
     robot_sensors/index
     mission
+    discussion
