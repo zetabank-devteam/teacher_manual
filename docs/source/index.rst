@@ -117,7 +117,7 @@ Mini Autonomous Robot
    :hidden:
    :caption: Hands-on Lecture Examples 
 
-   lecture/0.intro
+   lecture/0.intro/index
    lecture/1.driving_ex/index
    lecture/2.ai_training/index
    lecture/3.robot_control/index
