@@ -5,13 +5,34 @@ We use a Publisher to send commands to the robot command Topic which moves our r
 
 .. raw:: html
 
-    <div style="background: #ffe5b4" class="admonition note custom">
-        <p style="background: #ffbf00" class="admonition-title">
+    <div style="background: #CFFDE1" class="admonition note custom">
+        <p style="background: #68B984" class="admonition-title">
             Group Discussion Points
         </p>
-        <div class="line-block">
-            <div class="line"><strong>-</strong> What are the different hardware factors that contributes to the movement error of the robot?</div>
-            <div class="line"><strong>-</strong> What are the different software factors that contributes to the movement error of the robot?</div>
-            <div class="line"><strong>-</strong> For specific tasks such as Navigation or Auto Drive, we need our robots to behave correctly. How can we avoid/ or compensate these movement errors?</div>
-        </div>
+        <ul>
+            <li>
+                What are the different hardware factors that contributes to the movement error of the robot? These might be:
+                <ul>
+                    <li>Slippery wheel/ground.</li>
+                    <li>Weight of the robot in relation to the robot motor.</li>
+                    <li>etc.,</li>
+                </ul>
+            </li>
+            <li>
+                What are the different software factors that contributes to the movement error of the robot? These might be:
+                <ul>
+                    <li>Different settings between 2 motors.</li>
+                    <li>Wrong firmware configuration.</li>
+                    <li>etc.,</li>
+                </ul>
+            </li>
+            <li>
+                How can we fix these movement errors?
+                <ul>
+                    <li>Would you fix the hardware problems, and how would you fix them?</li>
+                    <li>Would you fix the software problems, and how would you fix them?</li>
+                </ul>
+            </li>
+        </ul>
+        
     </div>

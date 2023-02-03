@@ -5,12 +5,18 @@ The robot arm allows us to do variety of tasks with our robot. We have only trie
 
 .. raw:: html
 
-    <div style="background: #ffe5b4" class="admonition note custom">
-        <p style="background: #ffbf00" class="admonition-title">
+    <div style="background: #CFFDE1" class="admonition note custom">
+        <p style="background: #68B984" class="admonition-title">
             Group Discussion Points
         </p>
-        <div class="line-block">
-            <div class="line"><strong>-</strong> If you could improve the robot movement system, would you improve the software or the hardware?</div>
-            <div class="line"><strong>-</strong> With our Mission we were only able to command selected number of servos. How would you improve the system we made in our Mission?</div>
-        </div>
+        <ul>
+            <li> 
+                If you could improve the robot arm movement system, how would you move it?
+                <ul>
+                    <li>Currently, when we move our robot arm we only use 1 of the specified motor servos. When we command our robot arm to reach down, it does not utilize all of the arm servos. How can we adjust our software so that it utilizes all of the servos? Would it improve the movement?</li>
+                    <li>Debate different ways to implement better system to move the robot arm</li>
+                </ul>
+            </li>
+            
+        </ul>
     </div>
