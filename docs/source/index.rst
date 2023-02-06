@@ -125,7 +125,7 @@ Mini Autonomous Robot
    lecture/5.robot_arm_ex/index
    lecture/6.cv/index
    lecture/7.digital_twin/index
-
+   lecture/8.chat_gpt/index
 
 
 
