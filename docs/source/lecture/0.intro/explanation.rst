@@ -117,7 +117,7 @@ Furthermore, we provide team-by-team management of robots.
   
   .. thumbnail:: /_images/ai_training/login1.png
 
-  .. thumbnail:: /_images/ai_training/login2.png
+.. .. thumbnail:: /_images/ai_training/login2.png
 
 - Per Student Workspace:
 
@@ -132,3 +132,16 @@ Furthermore, we provide team-by-team management of robots.
 - Team Management
 
   .. thumbnail:: /_images/ai_training/login5.png
+
+
+Team-Specific Robot Development System
+-------------------------------------------
+
+Our ZetaBank educational program provides **Pair Programming** sessions to advance artificial intelligence knowledge as well as robotics knowledge on 
+our own intelligent robots. 
+
+.. thumbnail:: /_images/ai_training/slide-picture.png
+
+.. thumbnail:: /_images/ai_training/slide-picture2.png
+
+  

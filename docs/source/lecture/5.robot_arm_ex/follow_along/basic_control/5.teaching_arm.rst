@@ -2,6 +2,31 @@
 Robot Arm teaching
 ==================
 
+.. raw:: html
+    
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Follow along: Robot Arm Movement Retention Example
+        </p>
+        <div class="line-block">
+            <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
+            <div class="line">The robot arm is able to retain an change in the robot arm position as a movement. This example shows how the movement teaching process is conducted.</div>
+        </div>
+        <ul>
+            <li>Open the 05_05_study_mode.ipynb Jupyter Notebook</li>
+            <li>Load Arm_Lib module and register the robot arm as an object</li>
+            <li>Follow and Execute the example codes</li>
+
+        </ul>
+        <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
+        
+    </div>
+
+
+.. raw:: html
+
+    <hr>
+
 -   05_05_study_mode.ipynb
 -   | Running the cell code
     | `Ctrl + Enter`

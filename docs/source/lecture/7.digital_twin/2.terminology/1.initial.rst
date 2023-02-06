@@ -6,7 +6,11 @@ a simulated environment that can be interactive.
 
 Our example used Isaac Sim application provided by the NVIDIA OmniVerse. With Isaac Sim we are able to create, edit, and simulate objects and environments. 
 
-ZetaBank provides a premade environment with the zetabot figure already created. We may check these object individually by accessing the **Stage** window. 
+ZetaBank provides a premade environment with the zetabot figure already created and are stored in a usd file format. 
+
+For more information on USD file format: :ref:`usd-label`
+
+We may check these object individually by accessing the **Stage** window. 
 
 .. thumbnail:: /_images/digi_twin/stage_pic.png
 

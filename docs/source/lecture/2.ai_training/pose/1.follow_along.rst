@@ -1,10 +1,30 @@
 Follow Along!
 ==============
 
+.. raw:: html
 
-The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment. 
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Follow along: Pose Estimation Example
+        </p>
+        <div class="line-block">
+            <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
+        </div>
+        <ul>
+            <li>Open the pose_estimation.ipynb jupyter notebook</li>
+            <li>Initialize your output stream, and your path, and import in the Image library</li>
+            <li>Check all the available human pictures within the system</li>
+            <li>Pick one of the image with human(s) and initialize the image/ output name. </li>
+            <li>Execute Pose Estimation on the chosen picture </li>
+            <li>Display the result</li>
+        </ul>
+        <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
+    </div>
 
-(The Jetson Board used for these examples are => Jetson Nano)
+.. raw:: html
+
+    <hr>
+
 
 -   pose_estimation.ipynb
 -   | Running the cell code

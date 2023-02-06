@@ -1,7 +1,28 @@
 Follow Along!
 ================
 
-Let us follow along on how to drive the robot using the Jupyter notebook environment!
+.. raw:: html
+
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Follow along: Robot Movement Examples
+        </p>
+        
+        <div class="line-block">
+            <div class="line">Let us follow along on how to drive the robot using the Jupyter notebook environment! </div>
+            <div class="line">Below are the follow along examples:</div>
+        </div>
+        <ul>
+            <li>
+                Movement Instructions
+            </li>
+            <li>Movement Instructions with Odometry Information</li>
+        </ul>
+    </div>
+
+.. raw:: html
+
+    <hr>
 
 Movement Instructions
 -----------------------

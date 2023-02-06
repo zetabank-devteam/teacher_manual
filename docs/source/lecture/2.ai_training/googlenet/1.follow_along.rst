@@ -1,10 +1,28 @@
 Follow Along!
 ==============
 
+.. raw:: html
 
-The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment. 
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Follow along: GoogleNet Example
+        </p>
+        <div class="line-block">
+            <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
+        </div>
+        <ul>
+            <li>Open the googlenet.ipynb jupyter notebook</li>
+            <li>Import the necessary libraries</li>
+            <li>With the input picture, execute the image recognition</li>
+            <li>Terminate the task upon its completion</li>
+        </ul>
+        <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
+    </div>
 
-(The Jetson Board used for these examples are => Jetson Nano)
+.. raw:: html
+
+    <hr>
+
 
 -   1-1. Detect oranges in images - googlenet.ipynb
 -   | Running the cell code

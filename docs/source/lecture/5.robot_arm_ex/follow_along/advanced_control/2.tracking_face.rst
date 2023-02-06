@@ -2,6 +2,33 @@
 Tracking a Face with the Robotic Arm
 ====================================
 
+.. raw:: html
+    
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Follow along: Tracking a Face with the Robotic Arm
+        </p>
+        <div class="line-block">
+            <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
+        </div>
+        <ul>
+            <li>Open the 05_07_face_follow.ipynb Jupyter Notebook</li>
+            <li>Load Arm_Lib module and register the robot arm as an object</li>
+            <li>Create the instance and initialize the parameters</li>
+            <li>Creating controls</li>
+            <li>Switch mode</li>
+            <li>Execute the Code</li>
+
+        </ul>
+        <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
+        
+    </div>
+
+
+.. raw:: html
+
+    <hr>
+
 -   05_07_face_follow
 -   | Running the cell code
     | `Ctrl + Enter`
