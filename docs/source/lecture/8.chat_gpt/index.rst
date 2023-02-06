@@ -13,6 +13,7 @@ Sample
 The following is a sample that asks ChatGPT to clarify questions to debug code. 
 
 - **User**: this code is not working like I expect -- How do I fix it?
+  
   .. code-block:: c
 
     resultWorkerErr := make(chan error)
