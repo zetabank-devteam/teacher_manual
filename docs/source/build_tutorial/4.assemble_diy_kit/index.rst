@@ -1,18 +1,11 @@
-Assemble DIY KIT
-===========
+==========
+4.Assemble DIY Kit
+==========
 
-This page introduces how to assemble the DIY kit
+Here are the articles in this section:
 
-.. thumbnail:: /_images/build_tutorial/expert_overall.svg
+.. toctree::
 
-|
-
-Here is the details for the Depath camera used for Expert Kit: 
-
-.. thumbnail:: /_images/build_tutorial/expert_cam.svg
-
-|
-
-Here is the assembled picture of the Expert Kit:
-
-.. thumbnail:: /_images/build_tutorial/EXPERT_KIT.png
+    bottom_layer
+    middle_layer
+    top_layer
