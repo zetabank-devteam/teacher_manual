@@ -198,7 +198,7 @@ Mini Autonomous Robot
    build_tutorial/1.auto_kit/index
    build_tutorial/2.ai_kit/index
    build_tutorial/3.expert_kit/index
-   build_tutorial/4.assemble_diy_kit/index
+   build_tutorial/4.assembly_diy_kit/index
 
 
 .. toctree:: 

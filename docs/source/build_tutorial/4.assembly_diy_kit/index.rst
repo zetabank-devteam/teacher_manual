@@ -1,5 +1,5 @@
 ==========
-4.Assemble DIY Kit
+Assembly DIY KIT
 ==========
 
 Here are the articles in this section:
