@@ -1,10 +1,8 @@
-==============================
 Assembly Bottom layer
 ==============================
 
 
 This page introduces how to assemble the DIY KIT Bottom layers
------------------
 
 1. Place the bottom part.
 
