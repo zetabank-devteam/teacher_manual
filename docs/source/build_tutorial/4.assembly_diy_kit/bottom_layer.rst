@@ -93,3 +93,52 @@ This page introduces how to assemble the DIY KIT Bottom layers
 
 |
 |
+
+14. Connect the battery checker cable to the BAT3 terminal on the power board.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-14.jpg
+
+|
+|
+
+15. Connect the power cable to the 5.3V terminal on the power board.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-15.jpg
+
+|
+|
+
+16. Connect the USB cable to the USB terminal on the power board.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-16.jpg
+
+|
+|
+
+17. Connect the servo motor cables to the motor terminals on the power board paying attention to the left and right sides.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-17.jpg
+
+|
+|
+
+18. Tidy up the cables to the proper length.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-18.jpg
+
+|
+|
+
+19. Install the four posts into the power board holes.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-19.jpg
+
+|
+|
+
+20. Connect the sonar sensor cable to the power board.
+
+    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-20.jpg
+
+|
+|
