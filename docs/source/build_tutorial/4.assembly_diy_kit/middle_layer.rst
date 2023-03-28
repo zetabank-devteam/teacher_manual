@@ -130,7 +130,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-19. Connect the csi camera cable to the Jetson Nano's camera port.
+19. Connect the CSI camera cable to the Jetson Nano's camera port.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-19.jpg
 
