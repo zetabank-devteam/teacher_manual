@@ -60,13 +60,6 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-9. Connect lidar cable to lidar.
-
-    .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-8.jpg
-
-|
-|
-
 9. Connect the battery checker cable to the battery checker.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-9.jpg
