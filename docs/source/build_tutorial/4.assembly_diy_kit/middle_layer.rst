@@ -81,7 +81,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-12. Install the Jetson Nano Core again and tighten the 2 nuts.
+12. Install the Jetson Nano Core again and tighten two nuts.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-12.jpg
 
@@ -109,7 +109,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-16. Assemble the Jetson Nano to fit the 4 supports.
+16. Assemble the Jetson Nano to fit the four supporters.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-16.jpg
 
@@ -151,7 +151,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-22. Install the four posts to the middle plate.
+22. Install four posts to the middle plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-22.jpg
 

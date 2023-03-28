@@ -80,7 +80,7 @@ This page introduces how to assemble the DIY KIT Bottom layer.
 |
 |
 
-12. Install the rear speaker bracket and tighten the two bolts.
+12. Install the rear speaker bracket and tighten two bolts.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-12.jpg
 
@@ -129,7 +129,7 @@ This page introduces how to assemble the DIY KIT Bottom layer.
 |
 |
 
-19. Install the four posts into the power board holes.
+19. Install four posts into the power board holes.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-19.jpg
 

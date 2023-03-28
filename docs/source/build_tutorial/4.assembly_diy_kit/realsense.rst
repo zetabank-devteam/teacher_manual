@@ -3,7 +3,7 @@ Option : Intel RealSense D435
 
 This page introduces how to assemble the Intel RealSense D435
 
-1. Place the realsense bracket.
+1. Place the RealSense bracket.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-16.jpg
 

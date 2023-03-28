@@ -24,7 +24,7 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-4. Install the CSI camera and tighten the four nuts.
+4. Install the CSI camera and tighten four nuts.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-4.jpg
 
@@ -67,7 +67,7 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-10. Install the antenna to the top plate and tighten.
+10. Install antennas to the top plate and tighten.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-10.jpg
 
@@ -81,14 +81,14 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-12. Tighten the 4 nuts on the top plate.
+12. Tighten four nuts on the top plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-12.jpg
 
 |
 |
 
-13. Install the antenna.
+13. Install antennas.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-13.jpg
 
