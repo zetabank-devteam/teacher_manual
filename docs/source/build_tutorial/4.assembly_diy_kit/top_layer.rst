@@ -3,7 +3,7 @@ Assembly Top layer
 
 This page introduces how to assemble the DIY KIT Top layer
 
-1. Place the top part.
+1. Place the top plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-1.jpg
 
@@ -17,28 +17,28 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-3. Install the supporter to the CSI camera bracket.
+3. Install four supporters to the CSI camera bracket.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-3.jpg
 
 |
 |
 
-4. Install the CSI camera.
+4. Install the CSI camera and tighten the four nuts.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-4.jpg
 
 |
 |
 
-5. Turn the top part over and install lidar in the right direction.
+5. Turn the top plate over and install lidar in the right direction.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-5.jpg
 
 |
 |
 
-6. A Photo installed correctly.
+6. A photo installed correctly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-6.jpg
 
@@ -67,21 +67,21 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-10. Install the antenna to the top part and tighten.
+10. Install the antenna to the top plate and tighten.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-10.jpg
 
 |
 |
 
-11. Install the CSI camera module on the top part.
+11. Install the CSI camera module on the top plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-11.jpg
 
 |
 |
 
-12. Tighten the 4 nuts on the top part.
+12. Tighten the 4 nuts on the top plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-12.jpg
 
@@ -102,7 +102,7 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-15. A picture of the finished robot assembly.
+15. A photo of the finished robot assembly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-15.jpg
 

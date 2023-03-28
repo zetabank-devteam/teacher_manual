@@ -4,13 +4,13 @@ Assembly Bottom layer
 
 This page introduces how to assemble the DIY KIT Bottom layer.
 
-1. Place the bottom part.
+1. Place the bottom plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-1.jpg
 |
 |
 
-2. Flip the bottom part over, install the two servomotors.
+2. Flip the bottom plate over, install the two servomotors.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-2.jpg
 
@@ -24,7 +24,7 @@ This page introduces how to assemble the DIY KIT Bottom layer.
 |
 |
 
-4. Flip the bottom part over again.
+4. Flip the bottom plate over again.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-4.jpg
 

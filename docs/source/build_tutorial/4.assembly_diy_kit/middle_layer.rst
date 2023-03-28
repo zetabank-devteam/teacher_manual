@@ -4,13 +4,13 @@ Assembly Middle layer
 
 This page introduces how to assemble the DIY KIT Middle layer.
 
-1. Place the middle part.
+1. Place the middle plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-1.jpg
 |
 |
 
-2. Fasten the bottom part and the middle part using four flat head nuts.
+2. Fasten the bottom plate and the middle plate using four flat head nuts.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-2.jpg
 |
@@ -38,14 +38,14 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-6. A Photo installed correctly.
+6. A photo installed correctly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-6.jpg
 
 |
 |
 
-7. Install the sonar sensor module to the middle part and connect the sonar sensor cable.
+7. Install the sonar sensor module to the middle plate and connect the sonar sensor cable.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-7.jpg
 
@@ -67,7 +67,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-10. A Photo disassembled correctly.
+10. A photo disassembled correctly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-10.jpg
 
@@ -102,7 +102,7 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-15. A Photo installed correctly.
+15. A photo installed correctly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-15.jpg
 
@@ -144,14 +144,14 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-21. A Photo installed correctly.
+21. A photo installed correctly.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-21.jpg
 
 |
 |
 
-22. Install the four posts to the middle part.
+22. Install the four posts to the middle plate.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-22.jpg
 
