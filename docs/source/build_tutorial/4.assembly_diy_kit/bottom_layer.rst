@@ -115,7 +115,7 @@ This page introduces how to assemble the DIY KIT Bottom layer.
 |
 |
 
-17. Connect the servo motor cables to the motor terminals on the power board paying attention to the left and right sides.
+17. Connect the servo motor cables to the motor terminals on the power board **paying attention to the left and right sides.**
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-17.jpg
 
