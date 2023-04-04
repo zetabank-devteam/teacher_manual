@@ -53,7 +53,8 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 
 
-8. Connect lidar cable to lidar. lidar is a remote sensing technology that uses laser pulses to measure distances and create 3D maps of the surrounding environment. It is commonly used in robotics, autonomous vehicles, and other applications that require accurate and detailed information about the surrounding environment. Lidar enables these devices to navigate through complex environments, avoid obstacles, and accurately detect and identify objects in their path.
+8. Connect lidar cable to lidar.
+lidar is a remote sensing technology that uses laser pulses to measure distances and create 3D maps of the surrounding environment. It is commonly used in robotics, autonomous vehicles, and other applications that require accurate and detailed information about the surrounding environment. Lidar enables these devices to navigate through complex environments, avoid obstacles, and accurately detect and identify objects in their path.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-8.jpg
 
@@ -74,7 +75,8 @@ This page introduces how to assemble the DIY KIT Top layer
 |
 |
 
-11. Install the CSI camera module on the top plate. CSI camera is high-speed cameras that are commonly used in embedded systems, such as smartphones, tablets, and single-board computers like the Raspberry Pi. These cameras use a serial protocol to transfer image data from the camera sensor to the host processor, which allows for a high bandwidth and low latency data transfer.
+11. Install the CSI camera module on the top plate.
+CSI camera is high-speed cameras that are commonly used in embedded systems, such as smartphones, tablets, and single-board computers like the Raspberry Pi. These cameras use a serial protocol to transfer image data from the camera sensor to the host processor, which allows for a high bandwidth and low latency data transfer.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/3-11.jpg
 

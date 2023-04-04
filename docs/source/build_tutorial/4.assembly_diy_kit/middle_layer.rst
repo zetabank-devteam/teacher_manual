@@ -38,7 +38,8 @@ This page introduces how to assemble the DIY KIT Middle layer.
 |
 |
 
-6. A photo installed correctly. The role of a sonar sensor is to measure distance by emitting high-frequency sound waves and detecting their reflections. The sonar sensor emits sound waves and then calculates the time it takes for the waves to bounce back to the sensor. By using this time and the speed of sound, the sonar sensor can determine the distance to the object in front of it.
+6. A photo installed correctly.
+The role of a sonar sensor is to measure distance by emitting high-frequency sound waves and detecting their reflections. The sonar sensor emits sound waves and then calculates the time it takes for the waves to bounce back to the sensor. By using this time and the speed of sound, the sonar sensor can determine the distance to the object in front of it.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/2-6.jpg
 
