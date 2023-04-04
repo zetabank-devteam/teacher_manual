@@ -11,7 +11,6 @@ This page introduces how to assemble the DIY KIT Bottom layer.
 |
 
 2. Flip the bottom plate over, install the two servomotors.
-|
 Two servomotors are responsible for the movement and direction control of the robot, with specifications of voltage ranging from 14.4V to 20V, output power ranging from 10W to 25W, speed ranging from 100RPM to 500RPM, and torque ranging from 0.3N·m to 1.2N·m.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-2.jpg
@@ -41,7 +40,6 @@ Two servomotors are responsible for the movement and direction control of the ro
 |
 
 6. Install the power board and tighten the two front screws.
-|
 A power board oversees the entire electronics, including the battery and motor.
 
 
@@ -100,7 +98,6 @@ A power board oversees the entire electronics, including the battery and motor.
 |
 
 14. Connect the battery checker cable to the BAT3 terminal on the power board.
-|
 A battery checker displays the remaining capacity and voltage of a battery.
 
     .. thumbnail:: /_images/build_tutorial/4.assembly_diy_kit/1-14.jpg
